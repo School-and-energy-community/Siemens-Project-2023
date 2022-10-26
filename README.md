@@ -14,3 +14,6 @@ Tali componenti sono in grado di trasmettere le informazioni senza intermediari 
 La figura seguente mostra il sistema a stella di raccolta dati
  
 <img src="image/Diagramma.png" width="550" height="350">
+
+
+remote_theme: 
