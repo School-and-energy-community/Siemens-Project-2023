@@ -13,7 +13,7 @@ Tali componenti sono in grado di trasmettere le informazioni senza intermediari 
 ### Architettura Web
 La figura seguente mostra il sistema a stella di raccolta dati
  
-<img src="image/diag1.png" width="550" height="350">
+<img src="image/diag1.jpg" width="550" height="350">
 
 
 
