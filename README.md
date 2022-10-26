@@ -10,7 +10,7 @@ Il monitoraggio energetico si riferisce sia all'energia **elettrica** sia all'en
 Il sistema di monitoraggio si basa su componenti a bassissimo costo con alto livello di affidabilità, alimentati a batteria in modo che possano essere inseriti in qualsiasi impianto in modo non intrusivo e sicuro, ovvero senza la necessità di dover intervenire e/o modificare l'impianto oggetto di monitoraggio.
 Tali componenti sono in grado di trasmettere le informazioni senza intermediari web direttamente su Google Sheet per essere elaborati da opportuna interfaccia software.
 
-### Architettura Web
+### Architettura del sistema
 La figura seguente mostra il sistema a stella di raccolta dati
  
 <img src="image/diag1.jpg" width="550" height="350">
