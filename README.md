@@ -16,4 +16,4 @@ La figura seguente mostra il sistema a stella di raccolta dati
 <img src="image/Diagramma.png" width="550" height="350">
 
 
-remote_theme: 
+remote_theme:benbalter/retlab
