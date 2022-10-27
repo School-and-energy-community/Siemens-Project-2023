@@ -1,7 +1,7 @@
 # School and Energy Community
 ## Campionato Nazionale Siemens 2023
 ###Premessa###
-riflessioni degli studenti sul tema ambientale - contributo docente di lettere Prof.ss Lencioni  
+riflessioni degli studenti sul tema ambientale - contributo docente di lettere Prof.ssa Lencioni  
 ### Finalità
 Il presente progetto ha come finalità il monitoraggio energetico di edifici al fine di ottenere:
 - in fase **preliminare** le informazioni utili per il dimensionamento di impianti di produzione da energia rinnovabile a servizio comunità energetiche;
