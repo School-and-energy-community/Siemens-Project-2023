@@ -10,10 +10,12 @@ Il monitoraggio energetico si riferisce sia all'energia **elettrica** sia all'en
 Il sistema di monitoraggio si basa su componenti a bassissimo costo con alto livello di affidabilità, alimentati a batteria in modo che possano essere inseriti in qualsiasi impianto in modo non intrusivo e sicuro, ovvero senza la necessità di dover intervenire e/o modificare l'impianto oggetto di monitoraggio.
 Tali componenti sono in grado di trasmettere le informazioni senza intermediari web direttamente su Google Sheet per essere elaborati da opportuna interfaccia software.
 
-### Architettura del sistema
-La figura seguente mostra il sistema a stella di raccolta dati
+### Architettura e funzioni del sistema di monitoraggio
+La figura seguente mostra il sistema a stella del sistema di monitoraggio low cost
  
 <img src="image/diag1.jpg" width="550" height="350">
+
+Inizialmente i dati raccolti dal sistema di monitoraggio consentono di definire il comportamento termodinamico degli edifici nonchè l'andamento temporale dei consumi. Successivamente quando la comunità energetica è attiva, il sistema di monitoraggio fornisce informazioni agli utenti circa i periodi in cui i consumi risultano economicamente piu' favorevoli a causa della disponibilità della risorsa energetica rinnovabile. 
 
 
 
