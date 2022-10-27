@@ -15,7 +15,7 @@ La figura seguente mostra il sistema a stella del sistema di monitoraggio low co
  
 <img src="image/diag1.jpg" width="550" height="350">
 
-Inizialmente i dati raccolti dal sistema di monitoraggio consentono di definire il comportamento termodinamico degli edifici nonchè l'andamento temporale dei consumi. Successivamente quando la comunità energetica è attiva, il sistema di monitoraggio fornisce informazioni agli utenti circa i periodi in cui i consumi risultano economicamente piu' favorevoli a causa della disponibilità della risorsa energetica rinnovabile. 
+Inizialmente i dati raccolti dal sistema di monitoraggio consentono di definire il comportamento termodinamico degli edifici nonchè l'andamento temporale dei consumi. Successivamente quando la comunità energetica è attiva, il sistema di monitoraggio fornisce informazioni in tempo reale dei periodi in cui i consumi risultano economicamente piu' favorevoli a seguito della disponibilità della risorsa energetica rinnovabile. 
 
 
 
