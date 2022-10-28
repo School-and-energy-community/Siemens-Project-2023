@@ -23,7 +23,7 @@ Inizialmente i dati raccolti dal sistema di monitoraggio consentono di definire 
 Video istituzionale di 4 minuti -- under construction
 
 ### Attività di laboratorio ###
-# Calibrazione TA #
+#### Calibrazione TA ####
 Il TA per la misura della corrente è stato testato con carichi crescenti utlizzando un amperometro da laboratorio
 
 <img src="image/TA.png" width="200" height="140">
@@ -33,7 +33,7 @@ I valori digitali della tensione sono stati interpolati mediante regressione lin
 
 <img src="image/reglin1.png" width="440" height="280">
 
-# Calibrazione PT100 #
+#### Calibrazione PT100 ####
 segue esperienza laboratorio
 
 <img src="image/uc.png" width="220" height="140">
