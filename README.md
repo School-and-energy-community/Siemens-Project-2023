@@ -30,9 +30,9 @@ Il TA per la misura della corrente è stato testato con carichi crescenti utlizz
 Il segnale analogico del TA è stato digitalizzato per l'acquisizione dei valori da parte dell'ESP32.
 I valori digitali relativi al valore di picco della tensione del TA sono stati interpolati mediante regressione lineare.
 
-<img src="image/reglin1.png" width="220" height="140">
+<img src="image/reglin1.png" width="440" height="280">
 
-Il modello matematico ottenuto 
+
 
 <img src="image/uc.png" width="220" height="140">
 
