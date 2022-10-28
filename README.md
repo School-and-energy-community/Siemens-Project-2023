@@ -19,8 +19,16 @@ La figura seguente mostra il sistema a stella del sistema di monitoraggio low co
 
 Inizialmente i dati raccolti dal sistema di monitoraggio consentono di definire il **comportamento termodinamico degli edifici** nonchè **l'andamento temporale dei consumi energetici**. Successivamente quando la comunità energetica è attiva, il sistema di monitoraggio fornisce informazioni in tempo reale dei **periodi in cui i consumi risultano economicamente piu' favorevoli** a seguito della disponibilità della risorsa rinnovabile. Le stesse informazioni sono inoltre utilizzate per le attività di **manutenzione ordinaria e straordinaria degli impianti**. In altre parole il sistema di monitoraggio facilita la gestione e l'utilizzo di un impianto complesso a servizio di una comunità energetica rendendolo **accessibile** ovvero semplicemente **fruibile** anche ad utenti non esperti.
 
+### Video progetto ###
+Video istituzione di 4 minuti -- under construction
+
+### Attività di laboratorio ###
+Il TA per la misura della corrente è stato testato con carichi crescenti utlizzando un amperometro da laboratorio (Cl. 0,1)
+<img src="image/TA.png" width="220" height="140">
+Il segnale analogico del TA è stato digitalizzato per l'acquisizione dei valori da parte dell'ESP32.
+I valori digitali relativi al valore di picco della tensione del TA sono stati interpolati mediante regressione lineare.
+<img src="image/reglin1.png" width="220" height="140">
+Il modello matematico ottenuto 
 <img src="image/uc.png" width="220" height="140">
-
-
 
 
