@@ -24,11 +24,16 @@ Video istituzione di 4 minuti -- under construction
 
 ### Attività di laboratorio ###
 Il TA per la misura della corrente è stato testato con carichi crescenti utlizzando un amperometro da laboratorio (Cl. 0,1)
-<img src="image/TA.png" width="220" height="140">
+
+<img src="image/TA.png" width="200" height="140">
+
 Il segnale analogico del TA è stato digitalizzato per l'acquisizione dei valori da parte dell'ESP32.
 I valori digitali relativi al valore di picco della tensione del TA sono stati interpolati mediante regressione lineare.
+
 <img src="image/reglin1.png" width="220" height="140">
+
 Il modello matematico ottenuto 
+
 <img src="image/uc.png" width="220" height="140">
 
 
