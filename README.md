@@ -23,7 +23,7 @@ Inizialmente i dati raccolti dal sistema di monitoraggio consentono di definire 
 Video istituzione di 4 minuti -- under construction
 
 ### Attività di laboratorio ###
-Il TA per la misura della corrente è stato testato con carichi crescenti utlizzando un amperometro da laboratorio (Cl. 0,1)
+Il TA per la misura della corrente è stato testato con carichi crescenti utlizzando un amperometro da laboratorio
 
 <img src="image/TA.png" width="200" height="140">
 
