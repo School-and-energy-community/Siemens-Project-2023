@@ -9,7 +9,7 @@ Il presente progetto ha come finalità il monitoraggio energetico di edifici al 
 
 Il monitoraggio energetico si riferisce sia all'energia **elettrica** sia all'energia **termica** o ad altra forma di energia prodotta o immagazzinata.
 
-Il sistema di monitoraggio utilizza componenti a bassissimo costo con alto livello di affidabilità, alimentati a batteria in modo che possano essere inseriti in qualsiasi impianto in modo non intrusivo e sicuro, ovvero senza la necessità di dover intervenire e/o modificare l'impianto oggetto di monitoraggio.
+Il sistema di monitoraggio utilizza componenti a bassissimo costo con alto livello di affidabilità, alimentati a batteria adatti ad essere inseriti in qualsiasi impianto in modo non intrusivo e sicuro, ovvero senza la necessità di dover intervenire e/o modificare i circuiti oggetto di monitoraggio.
 Tali componenti sono in grado di trasmettere le informazioni senza intermediari web direttamente su Google Sheet per essere elaborati da opportuna interfaccia software.
 
 ### Architettura e funzioni del sistema di monitoraggio
