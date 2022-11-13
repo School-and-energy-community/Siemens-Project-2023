@@ -1,5 +1,7 @@
 # School and Energy Community
 ## Campionato Nazionale Siemens 2023
+<img src="image/photo.gif" width="550" height="350">
+
 ###Premessa###
 riflessioni degli studenti sul tema ambientale - contributo docente di lettere Prof.ssa Lencioni  
 ### Finalità
