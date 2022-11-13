@@ -1,11 +1,12 @@
-# School and Energy Community
+# Schools as Energy Community
 ## Campionato Nazionale Siemens 2023
 <img src="image/photo.gif" width="150" height="130"> <img src="image/eolico.gif" width="150" height="130">
 
-###Premessa###
-riflessioni degli studenti sul tema ambientale - contributo docente di lettere Prof.ssa Lencioni  
+### Premessa
+riflessioni degli studenti sul tema ambientale - contributo docente di lettere Prof.ssa Lencioni 
+
 ### Finalità
-Il presente progetto ha come finalità il monitoraggio energetico di edifici al fine di ottenere:
+Il presente progetto ha come finalità il monitoraggio energetico di edifici in genere al fine di ottenere:
 - in fase **preliminare** le informazioni utili per il dimensionamento di impianti di produzione da energia rinnovabile a servizio comunità energetiche;
 - a **regime** le informazioni dettagliate circa il consumo degli impianti costituenti la comunità energetica.
 
@@ -13,6 +14,8 @@ Il monitoraggio energetico si riferisce sia all'energia **elettrica** sia all'en
 
 Il sistema di monitoraggio utilizza componenti a bassissimo costo di dimensioni ridotte e con alto livello di affidabilità. Alimentati a batteria sono adatti per essere inseriti in qualsiasi impianto in modo non intrusivo e sicuro, ovvero senza la necessità di dover intervenire e/o modificare i circuiti oggetto di monitoraggio.
 Tali componenti sono in grado di trasmettere le informazioni senza intermediari web direttamente su Google Sheets per essere elaborati da opportuna interfaccia software.
+
+Il progetto nasce dall'idea di monitorare i consumi della nostra scuola [IIS Galilei Artiglio](https://www.iisgalileiartiglio.edu.it/) per contribuire inizialmente ad individuare ed eliminare sprechi energetici e successivamente di fornire strumenti utili all'Amministrazione per la costituzione di comunità energetiche, esportando il sistema di monitoraggio in altre realtà pubbliche del territorio.
 
 ### Peculiarità del progetto
 Il presente lavoro si rivolge a tutti, in particolare ai non esperti, utilizzando tecnologie robuste ed affidabili a bassisimo costo e open source come Google Scripts. La parola d'ordine è **semplificare il piu' possibile** rendendo accessibile a chiunque concetti e pratiche che spesso sono per addetti ai lavori. Pensiamo che ognuno debba essere e sentirsi protagonista in questa sfida importante e che l'abilità e la competenza dell'esperto non debba apparire come un sapere inaccessibile ma un "bene comune" da condividere. In altre parole chiunque abbia uno smartphone e ovunque si trovi, purchè vi sia un segnale WiFi disponibile, è in grado di *addestrare* il sistema di monitoraggio e di leggere i propri consumi energetici. Di seguito, oltre al video istituzionale del Campionato Siemens, saranno proposti dei video-tutorial esplicativi sull'addestramento e sull'utilizzo del sistema di monitoraggio.
