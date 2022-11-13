@@ -12,6 +12,11 @@ Il monitoraggio energetico si riferisce sia all'energia **elettrica** sia all'en
 Il sistema di monitoraggio utilizza componenti a bassissimo costo con alto livello di affidabilità, alimentati a batteria adatti ad essere inseriti in qualsiasi impianto in modo non intrusivo e sicuro, ovvero senza la necessità di dover intervenire e/o modificare i circuiti oggetto di monitoraggio.
 Tali componenti sono in grado di trasmettere le informazioni senza intermediari web direttamente su Google Sheet per essere elaborati da opportuna interfaccia software.
 
+### Peculiarità del progetto
+Il presente lavoro si rivolge a tutti, in particolare ai non esperti, utilizzando tecnologie robuste ed affidabili a bassisimo costo e/o open source come Google Scripts. In altre parole chiunque abbia uno smartphone e ovunque si trovi, purchè vi sia un segnale WiFi disponibile, è in grado di addestrare il sistema di monitoraggio dei consumi energetici. Di seguito, oltre al video istituzionale del Campionato Siemens, saranno proposti dei video-tutorial esplicativi sull'addestramento e sull'utilizzo del sistema di monitoraggio.
+
+
+
 ### Architettura e funzioni del sistema di monitoraggio
 La figura seguente mostra il sistema a stella del sistema di monitoraggio low cost
  
