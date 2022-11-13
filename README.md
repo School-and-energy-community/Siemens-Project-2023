@@ -1,6 +1,6 @@
 # School and Energy Community
 ## Campionato Nazionale Siemens 2023
-<img src="image/photo.gif" width="150" height="110"> <img src="image/eolico.gif" width="150" height="110">
+<img src="image/photo.gif" width="150" height="120"> <img src="image/eolico.gif" width="150" height="120">
 
 ###Premessa###
 riflessioni degli studenti sul tema ambientale - contributo docente di lettere Prof.ssa Lencioni  
