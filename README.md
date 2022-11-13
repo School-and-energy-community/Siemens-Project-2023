@@ -18,7 +18,7 @@ Tali componenti sono in grado di trasmettere le informazioni senza intermediari 
 Il presente lavoro si rivolge a tutti, in particolare ai non esperti, utilizzando tecnologie robuste ed affidabili a bassisimo costo e open source come Google Scripts. La parola d'ordine è **semplificare il piu' possibile** rendendo accessibile a chiunque concetti e pratiche che spesso sono per addetti ai lavori.  In altre parole chiunque abbia uno smartphone e ovunque si trovi, purchè vi sia un segnale WiFi disponibile, è in grado di *addestrare* il sistema di monitoraggio e di leggere i propri consumi energetici. Di seguito, oltre al video istituzionale del Campionato Siemens, saranno proposti dei video-tutorial esplicativi sull'addestramento e sull'utilizzo del sistema di monitoraggio.
 
 ### Semplificare la parola d'ordine ma ... senza banalizzare !
-Voler caratterizzare i consumi di piu' utilizzatori attraverso un'unica misura è un argomento studiato da tempo. Si possono trovare studi accademici 
+Voler caratterizzare i consumi di piu' utilizzatori attraverso un'unica misura a monte dell'impianto è un argomento studiato da tempo. Si possono trovare online diversi [studi accademici](https://scholar.google.it/scholar?q=non+intrusive+load+monitoring+academic&hl=it&as_sdt=0&as_vis=1&oi=scholart) che trattano l'argomento di questa tecnica che prende il nome di [NILM](https://en.wikipedia.org/wiki/Nonintrusive_load_monitoring) che significa *Non intrusive load monitoring*.
 
 ### Architettura e funzioni del sistema di monitoraggio
 La figura seguente mostra il sistema a stella del sistema di monitoraggio low cost
