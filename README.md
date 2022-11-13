@@ -20,7 +20,7 @@ Il presente lavoro si rivolge a tutti, in particolare ai non esperti, utilizzand
 ### Semplificare la parola d'ordine ma ... senza banalizzare !
 Voler caratterizzare i consumi di piu' utilizzatori attraverso un'unica misura a monte dell'impianto è un argomento studiato da tempo. Si possono trovare online diversi [studi accademici](https://scholar.google.it/scholar?q=non+intrusive+load+monitoring+academic&hl=it&as_sdt=0&as_vis=1&oi=scholart) che trattano l'argomento di questa tecnica che prende il nome di [NILM](https://en.wikipedia.org/wiki/Nonintrusive_load_monitoring) che significa *Non intrusive load monitoring*. Nella sostanza, alla base del metodo, c'è lo studio, la ricerca di come poter **disaggregare** il dato numerico della misura. Infatti ad ogni carico elettrico  collegato corrisponde a monte un aumento di corrente assorbita. La misura quindi è un dato **aggregato** che corrisponde alla somma di tutte le correnti 
 
-<img src="image/prese.gif" width="150" height="130">
+<img src="image/prese.gif" width="150" height="130"> <img src="image/misura.gif" width="150" height="130">
 
 Ogni sforzo quindi è nel tentativo di riconoscere da una somma 
 
