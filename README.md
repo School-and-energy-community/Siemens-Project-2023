@@ -3,7 +3,7 @@
 <img src="image/photo.gif" width="150" height="130"> <img src="image/eolico.gif" width="150" height="130">
 
 ### Premessa
-riflessioni degli studenti sul tema ambientale - contributo docente di lettere Prof.ssa Lencioni 
+Inserire riflessioni degli studenti sul tema ambientale - contributo docente di lettere Prof.ssa Lencioni 
 
 ### Finalità
 Il presente progetto ha come finalità il monitoraggio energetico di edifici in genere al fine di ottenere:
