@@ -35,7 +35,7 @@ Il progetto dell'[IIS Galilei Artiglio](https://www.iisgalileiartiglio.edu.it/) 
 
 
 ### Architettura del sistema di monitoraggio
-La figura seguente mostra in sintesi le relazioni tra i principali componenti del sistema di monitoraggio low cost ed i PLC S7 1x00 Siemens
+La figura seguente mostra in sintesi le relazioni tra i principali componenti del sistema di monitoraggio low cost ed i PLC S7 1x00 Siemens. Da notare che le informazioni scambiate tra gli ESP32 ed i PLC con i servizi APP Script utilizzati nel progetto, tra cui Google Sheets, avvengono **senza intermediari Web**.
  
 <img src="image/see.png" width="550" height="350">
 
