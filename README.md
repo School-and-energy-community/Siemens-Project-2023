@@ -34,7 +34,7 @@ Ogni sforzo quindi è nel tentativo di riconoscere, partendo dal risultato final
 Il progetto dell'[IIS Galilei Artiglio](https://www.iisgalileiartiglio.edu.it/) propone un metodo molto semplice per riconoscere i singoli contributi dei carichi **elettrici** e **termici**. L'addestramento o feedback al sistema è fatto direttamente nelle apposite caselle disponibili sul foglio Sheet di Google come mostrato piu' avanti nel videotutorial. 
 
 
-### Architettura e funzioni del sistema di monitoraggio
+### Architettura del sistema di monitoraggio
 La figura seguente mostra in sintesi le relazioni tra i principali componenti del sistema di monitoraggio low cost 
  
 <img src="image/see.png" width="550" height="350">
