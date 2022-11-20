@@ -37,7 +37,7 @@ Il progetto dell'[IIS Galilei Artiglio](https://www.iisgalileiartiglio.edu.it/) 
 ### Architettura e funzioni del sistema di monitoraggio
 La figura seguente mostra in sintesi le relazioni tra i principali componenti del sistema di monitoraggio low cost 
  
-<img src="image/see.jpg" width="550" height="350">
+<img src="image/see.png" width="550" height="350">
 
 Inizialmente i dati raccolti dal sistema di monitoraggio consentono di definire il **comportamento termodinamico degli edifici** nonchè **l'andamento temporale dei consumi energetici**. Successivamente quando la comunità energetica è attiva, il sistema di monitoraggio fornisce informazioni in tempo reale dei **periodi in cui i consumi risultano economicamente piu' favorevoli** a seguito della disponibilità della risorsa rinnovabile. Le stesse informazioni sono inoltre utilizzate per le attività di **manutenzione ordinaria e straordinaria degli impianti**. In altre parole il sistema di monitoraggio facilita la gestione e l'utilizzo di un impianto complesso a servizio di una comunità energetica rendendolo **accessibile** ovvero semplicemente **fruibile** anche ad utenti non esperti.
 
