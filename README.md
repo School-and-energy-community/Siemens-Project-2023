@@ -45,7 +45,7 @@ I dati raccolti dal sistema di monitoraggio consentono di definire il **comporta
 
 Lo schema circuitale del sensore di temperatura è il seguente
 
-<img src="image/schemapt100.png" width="550" height="350">
+<img src="image/schemapt100.png" width="450" height="250">
 
 
 ### Attività di laboratorio ###
