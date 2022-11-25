@@ -47,6 +47,9 @@ Lo schema circuitale del sensore di temperatura è il seguente
 
 <img src="image/schemapt100.png" width="450" height="250">
 
+mentre quello relativo alla misura di corrente prevede un ingresso bus a 4 canali utile per la misura di carichi trifase
+
+<img src="image/schemata.png" width="450" height="250">
 
 ### Attività di laboratorio ###
 #### Calibrazione TA ####
