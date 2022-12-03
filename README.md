@@ -48,7 +48,7 @@ Per rendere facilmente accessibile le misure in tempo reale, il presente progett
 Per far questo occorre indossare degli occhiali tipo [Google Glass](https://www.google.com/glass/start/) oppure più semplicemente utilizzando lo smartphone o un tablet qualsiasi puntato verso il QR Code presente sul quadro o sull'utenza che reindirizza verso il foglio Google Sheet. Per la lettura del QR Code il progetto prevede l'utilizzo di [Google Lens](https://play.google.com/store/apps/details?id=com.google.ar.lens&hl=it&gl=US&pli=1) sia per gli occhiali, sia per smartphone e tablet.
 Di seguito si riporta un QR Code per il lettore in modo da poter testare il sistema appena descritto: basta semplicemente inquadrare l'immagine ed aprire il link
 
-<img src="image/qrcode.png" width="150" height="130">
+<img src="image/qrcode.png" width="400" height="400">
 
 ### Architettura del sistema di monitoraggio
 La figura seguente mostra in sintesi le relazioni tra i principali componenti del sistema di monitoraggio low cost ed i PLC S7 1x00 Siemens. Da notare che le informazioni scambiate tra gli ESP32 ed i PLC con i servizi APP Script utilizzati nel progetto, tra cui Google Sheets, avvengono **senza intermediari Web**.
