@@ -33,14 +33,6 @@ Ogni sforzo quindi è nel tentativo di riconoscere, partendo dal risultato final
 
 Il progetto dell'[IIS Galilei Artiglio](https://www.iisgalileiartiglio.edu.it/) propone un metodo molto semplice per riconoscere i singoli contributi dei carichi **elettrici** e **termici**. L'addestramento o feedback al sistema è fatto direttamente nelle apposite caselle disponibili sul foglio Sheet di Google come mostrato piu' avanti nel videotutorial. 
 
-
-### Architettura del sistema di monitoraggio
-La figura seguente mostra in sintesi le relazioni tra i principali componenti del sistema di monitoraggio low cost ed i PLC S7 1x00 Siemens. Da notare che le informazioni scambiate tra gli ESP32 ed i PLC con i servizi APP Script utilizzati nel progetto, tra cui Google Sheets, avvengono **senza intermediari Web**.
- 
-<img src="image/see.png" width="550" height="350">
-
-I dati raccolti dal sistema di monitoraggio consentono di definire il **comportamento termodinamico degli edifici** nonchè **l'andamento temporale dei consumi energetici**. Successivamente quando la comunità energetica è attiva, il sistema di monitoraggio fornisce informazioni in tempo reale dei **periodi in cui i consumi risultano economicamente piu' favorevoli** a seguito della disponibilità della risorsa rinnovabile. Le stesse informazioni sono inoltre utilizzate per le attività di **manutenzione ordinaria e straordinaria degli impianti**. In altre parole il sistema di monitoraggio facilita la gestione e l'utilizzo di un impianto complesso a servizio di una comunità energetica rendendolo **accessibile** ovvero **fruibile** anche ad utenti non esperti. Da remoto è possibile interagire con il web server del PLC per gestire i diversi profili di carico. Solitamente gli impianti elettrici e termici delle scuole sono datati e non sono stati pensati per una gestione domotica dei carichi. Tuattia è possibile integrare in tali impianti uno o piu' PLC in grado di comandare interruttori motorizzati o attuatori in genere gestibili dai parametri personalizzabili su Google Sheets.
-
 ### Realtà aumentata ###
 I componentii utilizzati per il monitoraggio elettrico e termico sono costituiti da microprocessori ESP32 programmati in microPython collegati a sensori di corrente e temperatura 
 
@@ -55,6 +47,14 @@ I componentii utilizzati per il monitoraggio elettrico e termico sono costituiti
 Per rendere facilmente accessibile le misure in tempo reale, il presente progetto sfrutta la realtà aumentata per migliorare la percezione da parte dell'utente dei consumi. Nel caso ad esempio di impianti elettrici e termici solitamente vetusti a servizio delle scuole, si vuole offrire la possibilità al manutentore/tecnico all'Amministrazione Provinciale o Comunale, di avere l'andamento dei consumi osservando semplicemente il quadro elettrico o la centrale termica oggetto d'indagine.
 Per far questo occorre indossare degli occhiali tipo [Google Glass](https://www.google.com/glass/start/) oppure più semplicemente utilizzando lo smartphone o un tablet qualsiasi puntato verso il QR Code presente sul quadro o sull'utenza che reindirizza verso il foglio Google Sheet. Per la lettura del QR Code il progetto prevede l'utilizzo di [Google Lens](https://play.google.com/store/apps/details?id=com.google.ar.lens&hl=it&gl=US&pli=1) sia per gli occhiali, sia per smartphone e tablet.
 Di seguito si riporta un QR Code per il lettore in modo da poter testare il sistema appena descritto: basta semplicemente inquadrare l'immagine e seguire le istruzioni richieste
+
+### Architettura del sistema di monitoraggio
+La figura seguente mostra in sintesi le relazioni tra i principali componenti del sistema di monitoraggio low cost ed i PLC S7 1x00 Siemens. Da notare che le informazioni scambiate tra gli ESP32 ed i PLC con i servizi APP Script utilizzati nel progetto, tra cui Google Sheets, avvengono **senza intermediari Web**.
+ 
+<img src="image/see.png" width="550" height="350">
+
+I dati raccolti dal sistema di monitoraggio consentono di definire il **comportamento termodinamico degli edifici** nonchè **l'andamento temporale dei consumi energetici**. Successivamente quando la comunità energetica è attiva, il sistema di monitoraggio fornisce informazioni in tempo reale dei **periodi in cui i consumi risultano economicamente piu' favorevoli** a seguito della disponibilità della risorsa rinnovabile. Le stesse informazioni sono inoltre utilizzate per le attività di **manutenzione ordinaria e straordinaria degli impianti**. In altre parole il sistema di monitoraggio facilita la gestione e l'utilizzo di un impianto complesso a servizio di una comunità energetica rendendolo **accessibile** ovvero **fruibile** anche ad utenti non esperti. Da remoto è possibile interagire con il web server del PLC per gestire i diversi profili di carico. Solitamente gli impianti elettrici e termici delle scuole sono datati e non sono stati pensati per una gestione domotica dei carichi. Tuattia è possibile integrare in tali impianti uno o piu' PLC in grado di comandare interruttori motorizzati o attuatori in genere gestibili dai parametri personalizzabili su Google Sheets.
+
 
 
 
