@@ -45,9 +45,11 @@ I dati raccolti dal sistema di monitoraggio consentono di definire il **comporta
 I componentii utilizzati per il monitoraggio elettrico e termico sono costituiti da microprocessori ESP32 programmati in microPython collegati a sensori di corrente e temperatura 
 
 Circuito per la misura di CORRENTE
+
 <img src="image/schemata.png" width="450" height="250">
 
 Circuito per la misura di TEMPERATURA
+
 <img src="image/schemapt100.png" width="450" height="250">
 
 Per rendere facilmente accessibile le misure in tempo reale, il presente progetto open source sfrutta la realtà aumentata per migliorare la percezione da parte dell'utente dei consumi. Nel caso ad esempio di impianti elettrici e termici solitamente vetusti a servizio delle scuole, si vuole offrire la possibilità al manutentore/tecnico all'Amministrazione Provinciale o Comunale, di avere l'andamento dei consumi osservando semplicemente il quadro elettrico o la centrale termica oggetto d'indagine.
