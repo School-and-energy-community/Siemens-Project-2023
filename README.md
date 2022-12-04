@@ -7,7 +7,7 @@ Inserire riflessioni degli studenti sul tema ambientale - contributo docente di 
 
 ### Finalità
 Il presente progetto ha come finalità il monitoraggio energetico di edifici scolastici e di edifici in genere al fine di ottenere:
-- in fase **preliminare** le informazioni utili per il dimensionamento di impianti di produzione da energia rinnovabile a servizio comunità energetiche;
+- in fase **preliminare** le informazioni utili per il risparmio energetico e per il dimensionamento di impianti di produzione da energia rinnovabile a servizio comunità energetiche;
 - a **regime** le informazioni dettagliate circa il consumo degli impianti costituenti la comunità energetica.
 
 Il monitoraggio energetico si riferisce sia all'energia **elettrica** sia all'energia **termica** o ad altra forma di energia prodotta o immagazzinata.
