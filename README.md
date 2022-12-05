@@ -31,7 +31,7 @@ In passato l'energia elettrica è sempre stata intesa come un **servizio**. Oggi
 I componentii utilizzati per il monitoraggio sono costituiti da microprocessori ESP32 programmati in microPython in grado di scrivere direttamente i valori delle grandezze fisiche d'interesse in tempo reale su [Google Sheets](https://www.google.it/intl/it/sheets/about/) senza intermediari Web. 
 Di seguito si riporta lo schema che prevede una espansione per l'acquisizione di quattro segnali analogici utilizzati per la lettura dei consumi elettrici e lo schema con un modulo completo di PT100 "pronto all'uso" per la misura delle temperature di mandata e ritorno delle tubazioni di riscaldamento.
 Naturalmente gli scenari che si possono costruire sono molteplici. In rete si trovano svariate librerie in microPython che permettono di sfruttare al meglio le caratteristiche di ESP32. A esempio a [questo link](https://awesome-micropython.com/) si possono trovare diversi progetti interessanti.
-Ci teniamo a precisare che il progetto ***Schools as Energy Community*** non è frutto di un mero "copia & incolla", ma al contrario le librerie utilizzate sono state sviluppate ad hoc dal gruppo di lavoro dell'IIS Galilei Artiglio al fine di ottenere un risultato unico nel suo genere come sarà mostrato di seguito.
+Tuttavia ci teniamo a precisare che il progetto ***Schools as Energy Community*** non è frutto di un mero "copia & incolla", ma al contrario le librerie utilizzate sono state sviluppate ad hoc dal gruppo di lavoro dell'IIS Galilei Artiglio al fine di ottenere un risultato unico nel suo genere come sarà mostrato di seguito.
 
 **Schema con espansione analogica per la misura delle GRANDEZZE ELETTRICHE**
 
