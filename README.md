@@ -32,6 +32,7 @@ I componentii utilizzati per il monitoraggio sono costituiti da microprocessori 
 Di seguito si riporta lo schema che prevede una espansione per l'acquisizione di quattro segnali analogici utilizzati per la lettura dei consumi elettrici e lo schema con un modulo completo di PT100 "pronto all'uso" per la misura delle temperature di mandata e ritorno delle tubazioni di riscaldamento.
 Naturalmente gli scenari che si possono costruire sono molteplici. In rete si trovano svariate librerie in microPython che permettono di sfruttare al meglio le caratteristiche di ESP32. A esempio a [questo link](https://awesome-micropython.com/) si possono trovare diversi progetti interessanti.
 Tuttavia ci teniamo a precisare che il progetto ***Schools as Energy Community*** non è frutto di un mero "copia & incolla", ma al contrario le librerie utilizzate sono state sviluppate ad hoc dal gruppo di lavoro dell'IIS Galilei Artiglio al fine di ottenere un risultato unico nel suo genere come sarà mostrato di seguito.
+Da notare che gli ESP32 sono alimentati a batteria e quindi sono indipendenti dal resto dell'impianto oggetto di monitoraggio e che lo stato di carica della batteria al litio è anch'esso registrato su Google Sheet il quale è in grado di avvisare mediante e-mail o altra comunicazione tipo WA, grazie al servizio [Google Apps Script](https://www.google.com/script/start/), il manutentore quando il livello di carica scende al di sotto del limite di guardia. 
 
 **Schema con espansione analogica per la misura delle GRANDEZZE ELETTRICHE**
 
