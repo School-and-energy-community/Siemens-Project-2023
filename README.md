@@ -88,7 +88,7 @@ I valori digitali della tensione sono stati interpolati mediante regressione lin
 #### Calibrazione PT100 ####
 segue esperienza laboratorio
 
-https://htmlpreview.github.io/?https://github.com/School-and-energy-community/project/tree/main/html/prova.html
+https://rawgit.com/School-and-energy-community/project/blob/main/html/prova.html
 
 <img src="image/uc.png" width="220" height="140">
 
