@@ -1,0 +1,96 @@
+<html>
+  <body>
+ <form name="myForm" id="myForm" target="_myFrame" action="test.php" method="POST">
+
+</form> 
+  
+ <script>
+	let repo;
+  let selezione;
+  let carico1;
+  let carico2;
+  let carico3;
+  let carico4;
+  let carico5;
+  let carico6;
+
+	const sheetId = '1dj3cXnK6O0IVR3G8eYoVU6urDM4BKNpZ7j-6yGXXclI';
+const base = `https://docs.google.com/spreadsheets/d/${sheetId}/gviz/tq?`;
+const sheetName = 'PLC';
+const query = encodeURIComponent('Select * WHERE A="Stato impianto"');
+
+const url = `${base}&sheet=${sheetName}&tq=${query}`;
+const data = [];
+document.addEventListener('DOMContentLoaded', init);
+const output = document.querySelector('.output');
+function init() {
+  fetch(url)
+    .then(res => res.text())
+    .then(rep => {
+      //Remove additional text and extract only JSON:
+      const jsonData = JSON.parse(rep.substring(47).slice(0, -2));
+      console.log(rep);
+	  repo=rep;
+    selezione=repo.substring(1352, 1452);
+    carico1=parseInt(selezione[0]);
+    carico2=parseInt(selezione[18]);
+    carico3=parseInt(selezione[36]);
+    carico4=parseInt(selezione[54]);
+    carico5=parseInt(selezione[72]);
+    carico6=parseInt(selezione[90]);
+
+    document.write(carico1);
+    document.write(carico2);
+    document.write(carico3);
+    document.write(carico4);
+    document.write(carico5);
+    document.write(carico6);
+    
+      const colz = [];
+      const tr = document.createElement('tr');
+      //Extract column labels
+      jsonData.table.cols.forEach(heading => {
+        if (heading.label) {
+          let column = heading.label;
+          colz.push(column);
+          const th = document.createElement('th');
+          th.innerText = column;
+          tr.appendChild(th);
+        }
+       
+      });
+     
+      });
+        		
+      };
+     
+
+    
+    
+
+
+   // window.onload=function(){
+        //var auto = setTimeout(function(){ autoRefresh(); }, 100);
+
+        //function submitform(){
+         // alert('Send');
+          //document.forms["myForm"].submit();
+        //}
+
+        //function autoRefresh(){
+          //clearTimeout(auto);
+           //auto = setTimeout(function(){ submitform(); autoRefresh(); }, 10000);
+        //}
+    //}
+
+	
+//function valore() {
+		//return repo;
+		//}
+
+	
+	</script>
+
+
+  </body>
+</html>
