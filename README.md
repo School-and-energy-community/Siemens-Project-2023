@@ -60,7 +60,8 @@ Di seguito è data la possibilità al lettore di simulare il funzionamento del W
 
 <img src="image/qrcode2.png" width="200" height="200">
 
-Se le cose sono andate a buon fine dovreste trovarvi all'interno di un foglio Sheet dove sono riportati semplicemente dei numeri di colore rosso sotto l'etichetta "Carico 1, Carico 2, ... Carico 6". Inserite dallo smartphone dei nuovi numeri a piacere (i valori numerici si inseriscono in basso a sinistra nel campo fx)
+Se le cose sono andate a buon fine dovreste trovarvi all'interno di un foglio Sheet dove sono riportati semplicemente dei numeri di colore rosso sotto l'etichetta "Carico 1, Carico 2, ... Carico 6". Inserite dallo smartphone dei nuovi numeri a piacere (i valori numerici si inseriscono in basso a sinistra nel campo fx).
+
 Aprite con Chrome questo [Link di TEST](https://www.albertodelcarlo.it/see/indextest.html) e dovreste vedere i numeri che avete inserito. Potete cambiarli nuovamente da smartphone e premere il tasto refresh del Browser per l'aggiornamento
 
 
