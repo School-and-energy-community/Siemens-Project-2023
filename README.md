@@ -57,8 +57,10 @@ Pensiamo ad esempio ad una scuola che ha l'ascensore ad uso esclusivo di portato
 
 Di seguito è data la possibilità al lettore di simulare il funzionamento del Web Server nel PLC Siemens. Per prima cosa inquadrare il QR Code seguente con lo smartphone (si consiglia di utilizzare l'App [Google Lens](https://play.google.com/store/apps/details?id=com.google.ar.lens&hl=it&gl=US)
 
-Se le cose sono andate a buon fine dovreste trovarvi all'interno di un foglio di test dove sono riportati semplicemente dei numeri sotto l'etichetta "Carico 1, Carico 2, ... Carico 6". 
-Aprite con Chrome questo [Link di TEST](https://www.albertodelcarlo.it/see/indextest.html) e provate a cambiare i numeri dei carichi indicati in Sheet. Premendo il tasto refresh del Browser potete osservare i nuovi numeri aggiornati
+<img src="image/qrcode2.png" width="200" height="200">
+
+Se le cose sono andate a buon fine dovreste trovarvi all'interno di un foglio di test dove sono riportati semplicemente dei numeri sotto l'etichetta "Carico 1, Carico 2, ... Carico 6". Inserite dallo smartphone dei nuovi numeri a piacere.
+Aprite con Chrome questo [Link di TEST](https://www.albertodelcarlo.it/see/indextest.html) e dovreste vedere i numeri che avete inserito. Potete cambiarli nuovamente da smartphone e premere il tasto refresh del Browser per l'aggiornamento
 
 
 ### Architettura del sistema di monitoraggio
