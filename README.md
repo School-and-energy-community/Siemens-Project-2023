@@ -68,11 +68,11 @@ Aprite con Chrome questo [Link di TEST](https://www.albertodelcarlo.it/see/index
 
 
 ### Architettura del sistema di monitoraggio
-La figura seguente mostra in sintesi le relazioni tra i principali componenti del sistema di monitoraggio low cost ed i PLC S7 1x00 Siemens. Da notare che le informazioni scambiate tra gli ESP32 ed i PLC con i servizi APP Script utilizzati nel progetto, tra cui Google Sheets, avvengono **senza intermediari Web**.
+La figura seguente mostra in sintesi le relazioni tra i principali componenti del sistema di monitoraggio low cost ed i PLC S7 1x00 Siemens. Si ribadisce che le informazioni scambiate tra gli ESP32 ed i PLC con i servizi APP Script utilizzati nel progetto, tra cui Google Sheets, avvengono **senza intermediari Web**.
  
 <img src="image/see.png" width="550" height="350">
 
-I dati raccolti dal sistema di monitoraggio consentono di definire il **comportamento termodinamico degli edifici** nonchè **l'andamento temporale dei consumi energetici**. Successivamente quando la comunità energetica è attiva, il sistema di monitoraggio fornisce informazioni in tempo reale dei **periodi in cui i consumi risultano economicamente piu' favorevoli** a seguito della disponibilità della risorsa rinnovabile. Le stesse informazioni sono inoltre utilizzate per le attività di **manutenzione ordinaria e straordinaria degli impianti**. In altre parole il sistema di monitoraggio facilita la gestione e l'utilizzo di un impianto complesso a servizio di una comunità energetica rendendolo **accessibile** ovvero **fruibile** anche ad utenti non esperti. Da remoto è possibile interagire con il web server del PLC per gestire i diversi profili di carico. Solitamente gli impianti elettrici e termici delle scuole sono datati e non sono stati pensati per una gestione domotica dei carichi. Tuattia è possibile integrare in tali impianti uno o piu' PLC in grado di comandare interruttori motorizzati o attuatori in genere gestibili dai parametri personalizzabili su Google Sheets.
+
 
 
 ### NILM ###
