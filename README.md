@@ -1,4 +1,4 @@
-# Schools as Energy Community
+# Schools as Energy Communities
 ## Campionato Nazionale Siemens 2023
 <img src="image/photo.gif" width="150" height="130"> <img src="image/eolico.gif" width="150" height="130">
 
