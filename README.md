@@ -64,7 +64,7 @@ Di seguito è data la possibilità al lettore di simulare il funzionamento del W
 
 Se le cose sono andate a buon fine dovreste trovarvi all'interno di un foglio Sheet dove sono riportati semplicemente delle cifre di colore rosso sotto l'etichetta "Carico 1, Carico 2, ... Carico 6". Inserite dallo smartphone nuove cifre a piacere comprese tra 0 e 9 (i valori numerici si inseriscono in basso a sinistra nel campo fx).
 
-Aprite con Chrome questo [Link di TEST](https://www.albertodelcarlo.it/see/indextest.html) e dovreste vedere i numeri che avete inserito. Potete cambiarli nuovamente da smartphone e premere il tasto refresh del Browser per l'aggiornamento
+Aprite con Chrome questo [Link di TEST](https://www.albertodelcarlo.it/see/indextest.html) e dovreste vedere i numeri che avete inserito. Potete cambiarli nuovamente da smartphone e premere il tasto refresh del Browser per l'aggiornamento, oppure attendere il refresh automatico ogni cinque secondi.
 
 
 ### Architettura del sistema di monitoraggio
