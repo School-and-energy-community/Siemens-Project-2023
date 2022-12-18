@@ -82,7 +82,7 @@ Ogni sforzo quindi è nel tentativo di riconoscere, partendo dal risultato final
 
 Il progetto dell'[IIS Galilei Artiglio](https://www.iisgalileiartiglio.edu.it/) propone un metodo molto semplice per riconoscere i singoli contributi dei carichi **elettrici** e **termici**. 
 In pratica sfruttando la possibilità di assegnare script in Javascript al foglio Google Sheet è possibile estrarre un insieme di utenze che soddisfano la prima legge di Kirchhoff i cui assorbimenti sono stati misurati singolarmente intervenendo direttamente sugli interruttori di quadro o, nel caso di presenza di PLC S7 1x00, interagendo direttamente con il web server come visto in precedenza. Il software estrae dall'insieme un ridotto gruppo di carichi che verifica la legge con un margine di errore impostabile dall'utente. Sarà sempre possibile verificare in tempo reale i carichi individuati agendo sul quadro o sul PLC.
-Di seguito si riporta un esempio con cinque utenze. Per avere risultati credibili si raccomanda il lettore di modificare i valori delle celle secondo un criterio che abbia senso fisico. I valori modificabili sono quelli in campo verde. Al solito per collegarsi al foglio occorre inquadrare il QRcode.
+Di seguito si riporta un esempio con cinque utenze. Per avere risultati credibili si raccomanda il lettore di modificare i valori delle celle secondo un criterio che abbia senso fisico. I valori modificabili sono quelli in campo verde. Al solito per collegarsi al foglio occorre inquadrare il QR code.
 
 <img src="image/qr3.png" width="200" height="200">
 
