@@ -73,19 +73,20 @@ La figura seguente mostra in sintesi le relazioni tra i principali componenti de
 <img src="image/see.png" width="550" height="350">
 
 
-
-
-### NILM ###
+### Tecnica NILM e una possibile alternativa del Galilei Artiglio ###
 La caratterizzazione dei consumi elettrici di piu' utilizzatori attraverso un'unica misura a monte dell'impianto è un argomento studiato da tempo. Si possono trovare online diversi [studi accademici](https://scholar.google.it/scholar?q=non+intrusive+load+monitoring+academic&hl=it&as_sdt=0&as_vis=1&oi=scholart) che trattano l'argomento di questa tecnica che prende il nome di [NILM](https://en.wikipedia.org/wiki/Nonintrusive_load_monitoring) che significa *Non intrusive load monitoring*. Nella sostanza, alla base del metodo, c'è lo studio, la ricerca di come poter **disaggregare** il dato numerico della misura. Infatti ad ogni carico elettrico alimentato corrisponde ad un aumento di corrente totale assorbita. La misura a monte quindi è un dato **aggregato** che corrisponde alla somma di tutte le correnti assorbite
 
 <img src="image/prese.gif" width="150" height="130"> <img src="image/misura.gif" width="150" height="130">
 
 Ogni sforzo quindi è nel tentativo di riconoscere, partendo dal risultato finale ovvero la misura, il valore esatto dei vari contributi che lo generano. In pratica è un percorso inverso da come abitualmente lo conosciamo. E' come dire: il numero 10 è la somma di 3+2+5. Sì è vero, ma è anche il risultato della somma 6+4. Quale delle due ipotesi è quella giusta ? Per tentare di dare una risposta la tecnica NILM utilizza reti neurali ad hoc in combinazione al tipo di sensori utilizzati. Normalmente si tratta di sistemi chiusi o proprietari, ciascuno con un proprio grado di affidabilità.
 
-Il progetto dell'[IIS Galilei Artiglio](https://www.iisgalileiartiglio.edu.it/) propone un metodo molto semplice per riconoscere i singoli contributi dei carichi **elettrici** e **termici**. L'addestramento o feedback al sistema è fatto direttamente nelle apposite caselle disponibili sul foglio Sheet di Google come mostrato piu' avanti nel videotutorial. 
+Il progetto dell'[IIS Galilei Artiglio](https://www.iisgalileiartiglio.edu.it/) propone un metodo molto semplice per riconoscere i singoli contributi dei carichi **elettrici** e **termici**. 
+In pratica sfruttando la possibilità di assegnare script in Javascript al foglio Google Sheet è possibile estrarre un insieme di utenze che soddisfano la prima legge di Kirchhoff i cui assorbimenti sono stati misurati singolarmente intervenendo direttamente sugli interruttori di quadro o, nel caso di presenza di PLC S7 1x00, interagendo direttamente con il web server come visto in precedenza. Il software estrae dall'insieme un ridotto gruppo di carichi che verifica la legge con un margine di errore impostabile dall'utente. Sarà sempre possibile verificare in tempo reale i carichi individuati agendo sul quadro o sul PLC.
+Di seguito si riporta un esempio con cinque utenze. Per avere risultati credibili si raccomanda il lettore di modificare i valori delle celle secondo un criterio che abbia senso fisico. I valori modificabili sono quelli in campo verde. Al solito per collegarsi al foglio occorre inquadrare il QRcode.
 
+<img src="image/qr3.png" width="200" height="200">
 
-### Attività di laboratorio ###
+### Attività di laboratorio - under construction  ###
 #### Calibrazione TA ####
 Il TA per la misura della corrente è stato testato con carichi crescenti utlizzando un amperometro da laboratorio
 
