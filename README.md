@@ -86,6 +86,8 @@ In pratica il progetto sfrutta il web server del PLC che, leggendo la misura da 
 
 Di seguito si riporta un esempio con cinque utenze. Per avere risultati credibili si raccomanda il lettore di modificare i valori delle celle secondo un criterio che rispetti la prima legge di Kircchoff. Per collegarsi al foglio di simulazione occorre cliccare qui (link non ancora disponibile).
 
+<img src="image/plc.png" width="150" height="130">
+
 
 ### Attività di laboratorio - under construction  ###
 #### Calibrazione TA ####
