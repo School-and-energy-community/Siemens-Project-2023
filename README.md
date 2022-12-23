@@ -57,7 +57,7 @@ Pensiamo ad esempio ad una scuola che ha l'ascensore ad uso esclusivo di portato
 
 In altre parole è possibile individuare porzioni di impianto da attivare con autorizzazione utilizzando semplicemente un account personale. Vedremo piu' avanti nel caso studio che questa soluzione può essere molto utile anche in altri settori, come ad esempio nel caso di un importante approdo turistico presente sul nostro territorio. 
 
-Di seguito è data la possibilità al lettore di simulare il funzionamento del Web Server nel PLC Siemens. Per prima cosa inquadrare il QR Code seguente con lo smartphone (si consiglia di utilizzare il menu "Cerca" dell'App [Google Lens](https://play.google.com/store/apps/details?id=com.google.ar.lens&hl=it&gl=US) dopo aver inquadrato il QR Code)
+Di seguito è data la possibilità al lettore di simulare il funzionamento del Web Server nel PLC Siemens in combinazione con Gogle Sheet. Vedremo infatti il collegamento tra file HTML e contenuti spreadsheet. Per prima cosa inquadrare il QR Code seguente con lo smartphone (si consiglia di utilizzare il menu "Cerca" dell'App [Google Lens](https://play.google.com/store/apps/details?id=com.google.ar.lens&hl=it&gl=US) dopo aver inquadrato il QR Code)
 
 
 <img src="image/qrcode2.png" width="200" height="200">
