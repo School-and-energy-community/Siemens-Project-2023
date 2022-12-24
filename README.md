@@ -89,7 +89,7 @@ Di seguito si riporta un esempio con cinque utenze. Per avere risultati credibil
 <img src="image/plc.png" width="150" height="130"> [Link Web Server PLC Siemens](https://www.albertodelcarlo.it/see/sumcombine.html)
 
 Naturalmente anche in questo caso il collegamento al web server del PLC potrebbe avvenire sfruttando occhiali di realtà aumentata recuperando le informazioni da smarphone.
-
+Per chi volesse approfondire l'aspetto matematico del modello proposto può cliccare [qui]().
 
 ### Attività di laboratorio - under construction  ###
 #### Calibrazione TA ####
