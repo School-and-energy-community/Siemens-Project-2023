@@ -90,6 +90,7 @@ Di seguito si riporta un esempio con cinque utenze. Per avere risultati credibil
 
 <img src="image/plc.png" width="150" height="130"> [Link Web Server PLC Siemens](https://www.albertodelcarlo.it/see/sumcombine.html)
 
+La conoscenza del dato disaggregato, ovvero dell'assorbimento dei singoli carichi, permette di stabilire un elenco di utenze secondarie da disconnettere nell'eventualità di consumo eccessivo rispetto all'accumulo considerato.
 Naturalmente anche in questo caso il collegamento al web server del PLC potrebbe avvenire sfruttando occhiali di realtà aumentata recuperando le informazioni da smarphone.
 Per chi volesse approfondire l'aspetto matematico del modello proposto può cliccare [qui](https://github.com/School-and-energy-community/project/blob/main/math.md).
 
