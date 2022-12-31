@@ -93,7 +93,7 @@ Di seguito si riporta un esempio con cinque utenze. Per avere risultati credibil
 La conoscenza del dato disaggregato, ovvero dell'assorbimento dei singoli carichi, permette di:
 - stabilire un eventuale elenco di utenze secondarie da disconnettere in caso di consumo eccessivo rispetto all'accumulo considerato e/o dell'irraggiamento solare;
 - conoscere il cosfì del singolo utilizzatore per un eventuale rifasamento;
-- conoscere l'effettivo consumo del singolo utilizzatore anche in termini di efficienza nel tempo;
+- conoscere l'effettivo consumo del singolo utilizzatore anche in termini di manutenzione programmata/efficienza nel tempo;
 - valorizzare economicamente l'utilizzo delle utenze piu' significative da un punto di vista dei consumi per un impiego piu' oculato;
 - valutare economicamente le sostituzioni con utenze che utilizzano tecnologie piu' moderne (es. led, inverter, controllori PID ecc.).
 
