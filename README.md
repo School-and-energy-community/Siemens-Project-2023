@@ -98,7 +98,7 @@ La conoscenza del dato disaggregato, ovvero dell'assorbimento dei singoli carich
 - valutare economicamente le sostituzioni con utenze che utilizzano tecnologie piu' moderne (es. led, inverter, controllori PID ecc.).
 
 Naturalmente anche in questo caso il collegamento al web server del PLC potrebbe avvenire sfruttando occhiali di realtà aumentata recuperando le informazioni da smarphone.
-Per chi volesse approfondire l'aspetto matematico del modello proposto può cliccare [qui]((https://www.albertodelcarlo.it/see/dsemplici.html).
+Per chi volesse approfondire l'aspetto matematico del modello proposto può cliccare [qui](https://www.albertodelcarlo.it/see/dsemplici.html).
 
 ### Attività di laboratorio - under construction  ###
 #### Calibrazione TA ####
