@@ -97,7 +97,7 @@ La conoscenza del dato disaggregato, ovvero dell'assorbimento dei singoli carich
 - valorizzare economicamente l'utilizzo delle utenze piu' significative da un punto di vista dei consumi per un impiego piu' oculato;
 - valutare economicamente le sostituzioni con utenze che utilizzano tecnologie piu' moderne (es. led, inverter, controllori PID ecc.).
 
-La "bontà" della misura della corrente e del cosfì totali può essere eventualmente verificata (e allineata) confrontandola con le misure messe a disposizione dal servizio di [e-Distribuzione](https://www.e-distribuzione.it/servizi/contatore/le-mie-letture.html) sottoforma di file csv da importare in Google Sheet (in questo modo il servizio può essere integrato con il sistema di monitoraggio proposto nel presente lavoro). 
+La "bontà" della misura della corrente e del cosfì totali può essere eventualmente verificata/allineata alle misure messe a disposizione dal servizio di [e-Distribuzione](https://www.e-distribuzione.it/servizi/contatore/le-mie-letture.html) sottoforma di file csv da importare in Google Sheet. Iin questo modo il servizio di e-Distribuzione può essere integrato con il sistema di monitoraggio proposto nel presente lavoro. 
 
 Naturalmente anche in questo caso il collegamento al web server del PLC potrebbe avvenire sfruttando occhiali di realtà aumentata recuperando le informazioni da smarphone.
 Per chi volesse approfondire l'aspetto matematico del modello proposto nel file JS di test può cliccare [qui](https://www.albertodelcarlo.it/see/dsemplici.html).
