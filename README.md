@@ -95,14 +95,17 @@ La conoscenza del dato disaggregato, ovvero dell'assorbimento dei singoli carich
 - conoscere il cosfì del singolo utilizzatore per un eventuale rifasamento;
 - conoscere l'effettivo consumo del singolo utilizzatore anche in termini di manutenzione programmata/efficienza nel tempo;
 - valorizzare economicamente l'utilizzo delle utenze piu' significative da un punto di vista dei consumi per un impiego piu' oculato;
-- valutare economicamente le sostituzioni con utenze che utilizzano tecnologie piu' moderne (es. led, inverter, controllori PID ecc.).
+- valutare economicamente le sostituzioni con utenze che utilizzano tecnologie piu' moderne (es. led, inverter, controllori PID ecc.);
+- promuovere/migliorare/ottimizzare le abitudini di consumo dell'utente grazie anche all'utilizzo combinato con il PLC Siemens S7 1x00.
 
 La "bontà" della misura della corrente e del cosfì totali può essere eventualmente verificata/allineata alle misure messe a disposizione ogni 15 minuti dal servizio di [e-Distribuzione](https://www.e-distribuzione.it/servizi/contatore/le-mie-letture.html) sottoforma di file csv da importare in Google Sheet. Iin questo modo il servizio di e-Distribuzione può essere integrato con il sistema di monitoraggio proposto nel presente lavoro. 
 
 Naturalmente anche in questo caso il collegamento al web server del PLC potrebbe avvenire sfruttando occhiali di realtà aumentata recuperando le informazioni da smarphone.
 Per chi volesse approfondire l'aspetto matematico del modello proposto nel file JS di test può cliccare [qui](https://www.albertodelcarlo.it/see/dsemplici.html).
 
-### Attività di laboratorio - under construction  ###
+### Ottimizzare le abitudini di consumo con il PLC S7 1x00 ###
+Apparentemente un sistema energetico efficientato alla tecnica vigente ed in modo sostenibile da un punto di vista economico, non ha ulteriori margini di miglioramento se non nell'ottimizzazione delle abitudini di consumo. In generale, modificare le proprie abitudini non è mai una cosa facile. Ancor di meno quando si tratta di attività quotidiane necessarie.
+
 #### Calibrazione TA ####
 Il TA per la misura della corrente è stato testato con carichi crescenti utlizzando un amperometro da laboratorio
 
