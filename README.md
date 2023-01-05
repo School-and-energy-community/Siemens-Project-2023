@@ -105,7 +105,7 @@ Naturalmente anche in questo caso il collegamento al web server del PLC potrebbe
 Per chi volesse approfondire l'aspetto matematico del modello proposto nel file JS di test può cliccare [qui](https://www.albertodelcarlo.it/see/dsemplici.html).
 
 ### Ottimizzare le abitudini di consumo con il PLC S7 1x00 ###
-Apparentemente un sistema energetico efficientato alla tecnica vigente ed in modo sostenibile da un punto di vista economico, non ha ulteriori margini di miglioramento se non nell'ottimizzazione delle abitudini di consumo. In generale però, modificare le proprie abitudini non è mai una cosa facile. Ancor di meno se si tratta di attività quotidiane necessarie e irrinunciabili.
+Apparentemente un sistema energetico efficientato alla tecnica vigente ed in modo sostenibile da un punto di vista economico, non ha ulteriori margini di miglioramento se non nell'ottimizzazione delle abitudini di consumo. In generale però, modificare le proprie abitudini non è mai una cosa facile. Ancor di meno se si tratta di attività quotidiane ritenute "necessarie e irrinunciabili".
 
 #### Calibrazione TA ####
 Il TA per la misura della corrente è stato testato con carichi crescenti utlizzando un amperometro da laboratorio
