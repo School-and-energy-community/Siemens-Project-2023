@@ -60,7 +60,7 @@ Vedremo anche l'importanza delle combinazioni di orario per evitare picchi di co
 
 In altre parole è possibile individuare porzioni di impianto da attivare con autorizzazione utilizzando semplicemente un account personale. L'attivazione è naturalmente un'azione libera dell'utente che in quel preciso momento è a conoscenza dell'energia prodotta e consumata dalla comunità energetica.   
 
-Di seguito è data la possibilità al lettore di testare le capacità del file sviluppato dal gruppo di lavoro che sono in grado di far comunicare il PLC Siemens direttamente con i contenuti di Gogle Sheet. Per prima cosa inquadrare il QR Code seguente con lo smartphone (si consiglia di utilizzare il menu "Cerca" dell'App [Google Lens](https://play.google.com/store/apps/details?id=com.google.ar.lens&hl=it&gl=US) dopo aver inquadrato il QR Code)
+Di seguito è data la possibilità al lettore di testare le capacità del file sviluppato dal gruppo di lavoro, in grado di far comunicare il PLC Siemens direttamente con i contenuti di Google Sheets. Per prima cosa inquadrare il QR Code seguente con lo smartphone (si consiglia di utilizzare il menu "Cerca" dell'App [Google Lens](https://play.google.com/store/apps/details?id=com.google.ar.lens&hl=it&gl=US) dopo aver inquadrato il QR Code)
 
 
 <img src="image/qrcode2.png" width="200" height="200">
