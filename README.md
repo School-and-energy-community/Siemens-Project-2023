@@ -111,7 +111,7 @@ Per chi volesse approfondire l'aspetto matematico del modello proposto nel file 
 ### Ottimizzare le abitudini di consumo con il PLC S7 1x00 ###
 Apparentemente un sistema energetico efficientato alla tecnica vigente ed in modo sostenibile da un punto di vista economico, non ha ulteriori margini di miglioramento se non nell'ottimizzazione delle abitudini di consumo. In generale però, modificare le proprie abitudini non è mai una cosa facile. Ancor di meno se si tratta di attività quotidiane ritenute "necessarie e irrinunciabili". Il progetto **Schools as Energy Communities** si pone appunto l'obiettivo di facilitare il piu' possibile l'interazione tra l'utente ed i consumi energetici, consigliandolo nelle scelte di risparmio possibili attraverso la ***realtà aumentata con interfaccia vocale***. Abbiamo già visto che in alternativa alla realtà aumentata può essere utilizzato un tablet od uno smartphone. Di seguito vedremo come l'utente può ricevere consigli vocali circa la scelta di scenari possibili di risparmio energetico.
 
-Una volta caratterizzato l'impianto attraverso le misure di assorbimento dei carichi e valorizzate le celle spreadsheet, il sistema è pronto per l'interazione vocale con l'utente.
+Una volta caratterizzato l'impianto attraverso le misure di assorbimento dei carichi e valorizzate le celle spreadsheet, il sistema è pronto per l'interazione vocale con l'utente attraverso il PLC Siemens S7 1x00.
 
 
 
