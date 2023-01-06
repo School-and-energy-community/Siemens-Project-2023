@@ -38,7 +38,7 @@ Da notare che gli ESP32 sono alimentati a batteria e quindi sono indipendenti da
 
 **Schema con espansione analogica per la misura delle GRANDEZZE ELETTRICHE**
 
-<img src="image/schemata.png" width="450" height="250"> <img src="image/TA.png" width="100" height="70">
+<img src="image/schemata.png" width="450" height="250"> <img src="image/TA.png" width="150" height="90">
 
 **Schema con modulo PT100 per la misura di TEMPERATURA**
 
