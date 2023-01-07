@@ -113,31 +113,19 @@ Apparentemente un sistema energetico efficientato alla tecnica vigente ed in mod
 
 Una volta caratterizzato l'impianto con le misure di assorbimento dei carichi e valorizzate le celle spreadsheet, il sistema è pronto per l'interazione vocale con l'utente attraverso il PLC Siemens S7 1x00. Nella simulazione che segue si è scelto di interagire con tre carichi che rappresentano altrettanti laboratori messi a disposizione nell'orario scolastico di un ipotetico docente libero di scegliere. La simulazione è ovviamente rappresentativa di un insieme piu' vasto di casi. Gli scenari che possono essere raccolti in un foglio Google Sheet sono tanti quanto la fantasia e la capacità dell'[energy manager](https://it.wikipedia.org/wiki/Energy_manager) incaricato dall'Amministrazione Pubblica al conseguimento del risparmio energetico. Ci teniamo a ribadire che gli attori chiamati al risparmio siamo tutti noi: studenti, docenti, personale pubblico di qualsiasi livello, cittadini ... in pratica gli utenti. L'esempio seguente si basa sulla realtà scolastica dell'IIS Galilei Artiglio dove la turnazione degli orari dei docenti di disciplina non consente mai di poter scegliere tra piu' di tre laboratori di indirizzo per mattina.
 
-Nell simulazione il lettore può modificare le potenze generate dall'impianto fotovoltaico e dalle batterie di accumulo.  
+Nell simulazione il lettore può modificare le potenze generate dall'impianto fotovoltaico e dalle batterie di accumulo. Si tratta naturalmente di uno scenario esemplificativo che però comunica tutta la otenzialità degli strumenti utilizzati. Anche l'interfaccia vocale è uno degli strumenti possibili, sicuramente adatto a tutti e di efficacia comunicativa immediata. 
 Per accedere al foglio di Google Sheet inquadrare il QR Code 
 
 <img src="image/qrparla.png" width="200" height="200">
 
 
-Per collegarsi all'interfaccia vocale cliccare sul link del web server del PLC Siemens (al solito tutte le celle in realtà sono valorizzate dalle misure in tempo reale degli ESP32).
+Per collegarsi all'interfaccia vocale cliccare sul link del web server del PLC Siemens (al solito tutte le celle in realtà sono valorizzate dalle misure in tempo reale degli ESP32). Il lettore può modificare le celle con il bordo rosso ed arancio per interagire con le risposte vocali del PLC
 
 <img src="image/plc.png" width="150" height="130"> [Link Web Server PLC Siemens](https://www.albertodelcarlo.it/see/speach.html)
 
 
-#### Calibrazione TA ####
-Il TA per la misura della corrente è stato testato con carichi crescenti utlizzando un amperometro da laboratorio
-
-<img src="image/TA.png" width="200" height="140">
-
-Il segnale analogico del TA è stato digitalizzato per l'acquisizione da parte dell'ESP32.
-I valori digitali della tensione sono stati interpolati mediante regressione lineare.
-
-<img src="image/reglin1.png" width="440" height="280">
-
-#### Calibrazione PT100 ####
-segue esperienza laboratorio
-
-https://github.com/School-and-energy-community/project/blob/main/prova.html
+#### Video  ####
+Video di presentazione del progetto
 
 <img src="image/uc.png" width="220" height="140">
 
