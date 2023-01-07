@@ -115,6 +115,7 @@ Una volta caratterizzato l'impianto con le misure di assorbimento dei carichi e 
 
 Nell simulazione il lettore può modificare le potenze generate dall'impianto fotovoltaico e dalle batterie di accumulo.  
 Per accedere al foglio di Google Sheet inquadrare il QR Code 
+<img src="image/qrparla.png" width="200" height="200">
 
 Per collegarsi all'interfaccia vocale cliccare sul link del web server del PLC Siemens (al solito tutte le celle in realtà sono valorizzate dalle misure in tempo reale degli ESP32).
 <img src="image/plc.png" width="150" height="130"> [Link Web Server PLC Siemens](https://www.albertodelcarlo.it/see/speach.html)
