@@ -117,7 +117,7 @@ Nell simulazione il lettore può modificare le potenze generate dall'impianto fo
 
 Per accedere al foglio di Google Sheet inquadrare il QR Code.
 
-<img src="image/qrparla.png" width="200" height="200">
+<img src="image/qrparla1.png" width="200" height="200">
 
 Per collegarsi all'interfaccia vocale cliccare sul link del web server del PLC Siemens (al solito tutte le celle in realtà sono valorizzate dalle misure in tempo reale degli ESP32). Il lettore può modificare soltanto le celle con il bordo rosso ed arancio per interagire con le risposte vocali del PLC
 
