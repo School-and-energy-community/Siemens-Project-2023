@@ -119,7 +119,7 @@ Per accedere al foglio di Google Sheet inquadrare il QR Code.
 
 <img src="image/qrparla1.png" width="180" height="180">
 
-Per collegarsi all'interfaccia vocale cliccare sul link del web server del PLC Siemens (al solito tutte le celle in realtà sono valorizzate dalle misure in tempo reale degli ESP32). Il lettore può modificare soltanto le celle con il bordo rosso ed arancio per interagire con le risposte vocali del PLC
+Per collegarsi all'interfaccia vocale cliccare sul link del web server del PLC Siemens. Al solito per un impianto reale tutte le celle sarebbero valorizzate dalle misure in tempo reale degli ESP32. Qui nella simulazione il lettore può modificare soltanto le celle con il bordo rosso ed arancio che riproducono la potenza disponibile accumulata nelle batterie e quella prodotta istantaneamente da fonte rinnovabile.
 
 <img src="image/plc.png" width="150" height="130"> [Link Web Server PLC Siemens](https://www.albertodelcarlo.it/see/speach.html)
 
