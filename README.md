@@ -123,7 +123,7 @@ Per collegarsi all'interfaccia vocale cliccare sul link del web server del PLC S
 
 <img src="image/plc.png" width="150" height="130"> [Link Web Server PLC Siemens](https://www.albertodelcarlo.it/see/speach.html)
 
-L'esempio precedente tratta di laboratori, ma nello stesso modo potrebbero essere fornite indicazioni circa i consumi dei sistemi di illuminazione, ma anche di singoli carichi quali fotocopiatrici, distributori di servizi vari, oppure di impianti di climatizzazione di singoli locali ecc.
+L'esempio precedente tratta di laboratori, ma nello stesso modo potrebbero essere fornite indicazioni circa i consumi dei sistemi di illuminazione, nonchè di singoli carichi quali fotocopiatrici, distributori di servizi (es. bibite, merende), impianti di climatizzazione locali, ecc.
 
 #### Video  ####
 Video di presentazione del progetto
