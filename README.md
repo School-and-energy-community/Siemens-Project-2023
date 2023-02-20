@@ -138,7 +138,7 @@ L'esempio precedente tratta di laboratori, ma nello stesso modo potrebbero esser
 
 ### Cenni sul monitoraggio dei consumi termici ###
 Nel presente progetto l'ESP32, utilizzato in combinazione con vari tipi di trasduttori, è di fatto un sensore flessibile in grado di trasmettere le misure direttamente su Google Sheets. Se configurato per la lettura della temperatura mediante PT100 è in grado anche di fornire i consumi termici degli edifici. In pratica è sufficiente misurare la variazione di temperatura tra la mandata ed il ritorno del fluido termovettore una volta nota la portata del circolatore. Per circolatori a portata variabile è necessario integrare alla PT100 un flussostato. I valori ottenuti dalle misure possono essere valorizzati direttamente dalle celle di calcolo e passati al web server del PLC per il controllo e/o l'interazione vocale con l'utente. 
-I circolatori a servizio dell'impianto termico del Galilei Artiglio sono circolatori a portata regolabile manualmente mediante selettore. 
+I circolatori a servizio dell'impianto termico del Galilei Artiglio sono circolatori a portata regolabile manualmente mediante selettore. Di seguito è riportata una simulazione offline dove il lettore può modificare le temperature e la portata del circolatore al fine di avere il consumo termico dell'edificio.
 
 
 #### Video  ####
