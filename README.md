@@ -136,6 +136,10 @@ Per collegarsi all'interfaccia vocale cliccare sul link del web server del PLC S
 
 L'esempio precedente tratta di laboratori, ma nello stesso modo potrebbero essere fornite indicazioni circa i consumi dei sistemi di illuminazione, nonchè di singoli carichi quali fotocopiatrici, distributori di servizi (es. bibite, merende), impianti di climatizzazione locali, ecc.
 
+### Cenni sul monitoraggio dei consumi termici ###
+Nel presente progetto l'ESP32, utilizzato in combinazione con vari tipi di trasduttori, è di fatto un sensore flessibile in grado di trasmettere le misure direttamente su Google Sheets. Se configurato per la lettura della temperatura mediante PT100 è in grado anche di fornire i consumi termici degli edifici. In pratica è sufficiente misurare la variazione di temperatura tra la mandata ed il ritorno del fluido termovettore una volta nota la portata del circolatore. Per circolatori a portata variabile è necessario integrare alla PT100 un flussostato. I circolatori a servizio dell'impianto termico del Galilei Artiglio sono circolatori a portata regolabile manualmente mediante selettore. 
+
+
 #### Video  ####
 Video di presentazione del progetto
 
