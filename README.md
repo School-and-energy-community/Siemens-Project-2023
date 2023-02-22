@@ -56,7 +56,11 @@ Da notare che gli ESP32 sono alimentati a batteria e quindi sono indipendenti da
 <img src="image/schemapt100.png" width="450" height="250">
 
 Nel progetto ***Schools as Energy Communities***, qualsiasi sia la grandezza fisica misurata, questa è facilmente accessibile attraverso la **realtà aumentata**.  
-Infatti, per migliorare la percezione da parte dell'utente dei consumi, si è pensato di sfruttare una tecnologia che probabilmente in futuro sarà sempre piu' presente nei processi tecnologici. Tuttavia la sfida è stata quella di poter applicare con facilità la realtà aumentata anche in contesti piu' generici come quelli di edifici esistenti non tecnologicamente avanzati. Nel caso ad esempio di impianti elettrici e termici solitamente vetusti a servizio delle scuole, si vuole offrire la possibilità al tecnico e/o al manutentore dell'Amministrazione Provinciale o Comunale, di avere l'andamento dei consumi osservando semplicemente il quadro elettrico o la centrale termica oggetto d'indagine.
+Infatti, per migliorare la percezione da parte dell'utente dei consumi, si è pensato di sfruttare una tecnologia che probabilmente in futuro sarà sempre piu' presente nei processi tecnologici. Tuttavia la sfida è stata quella di poter applicare con facilità la realtà aumentata anche in contesti piu' generici come quelli di edifici esistenti non tecnologicamente avanzati. 
+
+<img src="image/giphyra.gif" width="450" height="250">
+
+Nel caso ad esempio di impianti elettrici e termici solitamente vetusti a servizio delle scuole, si vuole offrire la possibilità al tecnico e/o al manutentore dell'Amministrazione Provinciale o Comunale, di avere l'andamento dei consumi osservando semplicemente il quadro elettrico o la centrale termica oggetto d'indagine.
 Per far questo occorre indossare degli occhiali tipo [Google Glass](https://www.google.com/glass/start/) (in alternativa si può utilizzare uno smartphone o un tablet qualsiasi) ed inquadrare il QR Code posto sul quadro elettrico o sull'utenza. Per la lettura del QR Code il progetto prevede l'utilizzo di [Google Lens](https://play.google.com/store/apps/details?id=com.google.ar.lens&hl=it&gl=US&pli=1).
 Di seguito si riporta un QR Code per il lettore in modo da poter testare il funzionamento del sistema appena descritto: basta semplicemente inquadrare l'immagine sottostante anche attraverso uno smarphone per aprire la pagina "Graphs" di Google Sheets
 
