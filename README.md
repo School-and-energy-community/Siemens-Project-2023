@@ -56,7 +56,7 @@ Da notare che gli ESP32 sono alimentati a batteria e quindi sono indipendenti da
 <img src="image/schemapt100.png" width="450" height="250">
 
 Nel progetto ***Schools as Energy Communities***, qualsiasi sia la grandezza fisica misurata, questa è facilmente accessibile attraverso la **realtà aumentata**.  
-Infatti, per migliorare la percezione da parte dell'utente dei consumi, si è pensato di sfruttare una tecnologia che probabilmente in futuro sarà sempre piu' presente nei processi tecnologici. Tuttavia la sfida è stata quella di poter applicare con facilità la realtà aumentata anche in contesti piu' generici come quelli di edifici esistenti non tecnologicamente avanzati. 
+Infatti, per migliorare la percezione da parte dell'utente dei consumi, si è pensato di sfruttare una tecnologia che probabilmente in futuro sarà sempre piu' presente nei processi tecnologici. Tuttavia la sfida è stata quella di poter applicare la realtà aumentata anche in contesti piu' generici come quelli di edifici esistenti non tecnologicamente avanzati. 
 
 <img src="image/giphyra.gif" width="320" height="150">
 
