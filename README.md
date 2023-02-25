@@ -60,7 +60,7 @@ Infatti, per migliorare la percezione da parte dell'utente dei consumi, si è pe
 
 <img src="image/giphyra.gif" width="320" height="150">
 
-Facendo riferimento agli occhiali Google Glass Enterprise Edition 2, il codice per lo scanner di QR Code è scaricabile da questo [link](https://github.com/googlesamples/glass-enterprise-samples/tree/master/QRCodeScannerSample). Altri esempi di codice per l'utilizzo degli occhiali con comandi vocali è disponibile alla pagina [Google Glass Enterprise E2](https://developers.google.com/glass-enterprise/samples/code-samples?hl=it)
+Facendo riferimento agli occhiali Google Glass Enterprise Edition 2, il codice per lo scanner di QR Code è scaricabile da questo [link](https://github.com/googlesamples/glass-enterprise-samples/tree/master/QRCodeScannerSample). Altri esempi di codice per l'utilizzo degli occhiali con comandi vocali ed altro è disponibile alla pagina [Google Glass Enterprise E2](https://developers.google.com/glass-enterprise/samples/code-samples?hl=it)
 
 Nel caso ad esempio di impianti elettrici e termici solitamente vetusti a servizio delle scuole, si vuole offrire la possibilità al tecnico e/o al manutentore dell'Amministrazione Provinciale o Comunale, di avere l'andamento dei consumi osservando semplicemente il quadro elettrico o la centrale termica oggetto d'indagine.
 Per far questo occorre indossare degli occhiali tipo [Google Glass](https://www.google.com/glass/start/) (in alternativa si può utilizzare uno smartphone o un tablet qualsiasi) ed inquadrare il QR Code posto sul quadro elettrico o sull'utenza. Per la lettura del QR Code il progetto prevede l'utilizzo di [Google Lens](https://play.google.com/store/apps/details?id=com.google.ar.lens&hl=it&gl=US&pli=1).
