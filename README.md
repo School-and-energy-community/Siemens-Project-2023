@@ -161,8 +161,11 @@ Il progetto **Schools as Energy Comunities** ha visto il coinvolgimento dell'uff
 Si ricorda che il presente progetto intende fornire informazioni utili da utilizzare in strumenti accurati di valutazione per la costituzione di comunità energetiche come lo strumento [Recon di Enea](https://recon.smartenergycommunity.enea.it/)
 
 - ### Energia Elettrica ###
-Per quanto riguarda le proposte di ottimizzazione dei consumi di energia elettrica si è proceduto inizialmente ad una analisi delle bollette elettriche dove è emerso che i consumi annuali ammontano a circa 85MWh per la fascia F1 e 30MWh per le fascie F2 ed F3. L'Istituto svolge infatti corsi di serale per gli adulti. Tuttavia ad una prima analisi i consumi in fascia F3 non sono giustificabili. 
+Per quanto riguarda le proposte di ottimizzazione dei consumi di energia elettrica si è proceduto inizialmente ad una analisi delle bollette elettriche dove è emerso che i consumi annuali ammontano a circa 85MWh per la fascia F1 e 30MWh per le fascie F2 ed F3. L'Istituto svolge infatti corsi di serale per gli adulti. Tuttavia i consumi in fascia F3 non sembrano giustificabili. Tra le ragioni possibili i sistemi di illuminazione artificiale affidati a tecnologie non a led nonchè la disattivazione di utenze inutilizzate.
+
 I consumi sopra indicati sono al netto dell'energia prodotta dall'attuale impianto fotovoltaico che presenta una producibilità annua decisamente inferiore ai valori attesi. In altre parole l'impianto fotovoltaico ha perduto gran parte dell'efficienza ed alcuni moduli molto probabilmente devono essere sostituiti. Tale affermazione è avvalorata dai valori energetici medi attesi per le coordinate geografiche dell'Istituto 43°53'28"N 10°14'36"E ricavabili dall'[Atlante italiano della radiazione solare](http://www.solaritaly.enea.it/) di Enea.
+
+I picchi di potenza assorbita sono concentrati nella mattina e raggiungono valori massimi dell'ordine degli 80kW. Supponendo di realizzare un impianto fotovoltaico di potenza pari a 90kWp ed avendo a disposizione le superfici di copertura necessarie per la taglia designata, è possibile eliminare la cabina MT/BT passando ad una fornitura in BT.
 
 
 ### Conclusioni ###
