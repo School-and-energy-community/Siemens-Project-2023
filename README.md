@@ -162,8 +162,8 @@ Si ricorda che il presente progetto intende fornire informazioni utili da utiliz
 
 - ### Energia Elettrica ###
 Per quanto riguarda le proposte di ottimizzazione dei consumi di energia elettrica si è proceduto inizialmente ad una analisi delle bollette elettriche dove è emerso che i consumi annuali ammontano a circa 85MWh per la fascia F1 e 30MWh per le fascie F2 ed F3. L'Istituto svolge infatti corsi di serale per gli adulti. Tuttavia ad una prima analisi i consumi in fascia F3 non sono giustificabili. 
-I consumi sopra indicati sono al netto dell'energia prodotta dall'attuale impianto fotovoltaico che presenta una producibilità annua decisamente inferiore ai valori attesi. In altre parole l'impianto fotovoltaico ha perduto gran parte dell'efficienza ed alcuni moduli molto probabilmente devono essere sostituiti. Facendo riferimento all'[Atlante italiano della radiazione solare](http://www.solaritaly.enea.it/) di Enea, è possibile ricavare 
-Coordinate IIS Galilei Artiglio 43°53'28"N 10°14'36"E
+I consumi sopra indicati sono al netto dell'energia prodotta dall'attuale impianto fotovoltaico che presenta una producibilità annua decisamente inferiore ai valori attesi. In altre parole l'impianto fotovoltaico ha perduto gran parte dell'efficienza ed alcuni moduli molto probabilmente devono essere sostituiti. Tale affermazione è avvalorata dai valori energetici medi attesi per le coordinate geografiche dell'Istituto 43°53'28"N 10°14'36"E ricavabili dall'[Atlante italiano della radiazione solare](http://www.solaritaly.enea.it/) di Enea.
+
 
 ### Conclusioni ###
 
