@@ -169,6 +169,12 @@ I picchi di potenza assorbita sono concentrati nella mattina e raggiungono valor
 
 In uno scenario di questo tipo oltre al beneficio di tipo ambientale si avrebbe anche un beneficio di tipo paesaggistico trattandosi di superfici importanti di copertura da poter sfruttare posti in zone periferiche non soggette a particolari vincoli urbanistici. 
 
+Per quanto riguarda le buone pratiche di risparmio energetico, come mostrato nel video, è auspicabile un migliore controllo dell'utilizzo degli aerotermi a servizio dei laboratori. Essendo ambienti costituiti da involucri edilizi che non assicurano alcuna capacità termica, gli aerotermi sono dimensionati per riscaldare rapidamente l'aria. Nelle ore in cui i laboratori non sono utilizzati è fondamentale mantenere gli aerotermi spenti al fine di evitare sprechi inutili. Il transitorio termico per portare la temperatura dei laboratori al valore convenuto è di pochi minuti. L'utilizzo di un PLCS7 1x00 può migliorare il risparmio energetico gestendo l'accensione degli aerotermi in modo opportuno.
+
+- ### Energia Termica ###
+
+Pompe di calore a gas
+
 
 ### Conclusioni ###
 
