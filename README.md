@@ -158,7 +158,7 @@ e interagire con l'interfaccia vocale dell'impianto termico cliccando sul link s
 ### Analisi dei risultati e proposte di efficientamento ###
 Il progetto **Schools as Energy Comunities** ha visto il coinvolgimento dell'ufficio tecnico dell'Amministrazione Provinciale di Lucca che si è reso disponibile nel fornire lo storico dei consumi energetici dell'Istituto. Questo ha consentito agli studenti di potersi confrontare con dati oggettivi e di formulare proposte utili finalizzate al risparmio energetico. Riportiamo di seguito le idee che sono emerse durante l'attività di brain storming e che hanno a nostro avviso una fattibilità pratica sia in termini tecnici che economici. 
 
-Si ricorda che il presente progetto intende fornire informazioni utili da utilizzare in strumenti accurati di valutazione per la costituzione di comunità energetiche come [Recon di Enea](https://recon.smartenergycommunity.enea.it/)
+Si ricorda che il presente progetto intende fornire informazioni utili da utilizzare in strumenti accurati di valutazione per la costituzione di comunità energetiche come lo strumento [Recon di Enea](https://recon.smartenergycommunity.enea.it/)
 
 - ### Energia Elettrica ###
 Per quanto riguarda le proposte di ottimizzazione dei consumi di energia elettrica si è proceduto inizialmente ad una analisi delle bollette elettriche dove è emerso che i consumi annuali ammontano a circa 85MWh per la fascia F1 e 30MWh per le fascie F2 ed F3. L'Istituto svolge infatti corsi di serale per gli adulti. Tuttavia ad una prima analisi i consumi in fascia F3 non sono giustificabili. 
