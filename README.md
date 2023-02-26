@@ -165,7 +165,7 @@ Per quanto riguarda le proposte di ottimizzazione dei consumi di energia elettri
 
 I consumi sopra indicati sono al netto dell'energia prodotta dall'attuale impianto fotovoltaico che presenta una producibilità annua decisamente inferiore ai valori attesi. In altre parole l'impianto fotovoltaico ha perduto gran parte dell'efficienza ed alcuni moduli molto probabilmente devono essere sostituiti. Tale affermazione è avvalorata dai valori energetici medi attesi per le coordinate geografiche dell'Istituto 43°53'28"N 10°14'36"E ricavabili dall'[Atlante italiano della radiazione solare](http://www.solaritaly.enea.it/) di Enea.
 
-I picchi di potenza assorbita sono concentrati nella mattina e raggiungono valori massimi dell'ordine degli 80kW. Supponendo di realizzare un impianto fotovoltaico di potenza pari a 90kWp ed avendo a disposizione le superfici di copertura necessarie per la taglia designata, è possibile eliminare la cabina MT/BT passando ad una fornitura in BT.
+I picchi di potenza assorbita sono concentrati nella mattina e raggiungono valori massimi dell'ordine degli 80kW. Supponendo di realizzare un impianto fotovoltaico di potenza pari a 90kWp ed avendo a disposizione le superfici di copertura necessarie per la taglia designata, è possibile eliminare la cabina MT/BT passando ad una fornitura in BT. Infatti il costo lordo in bolletta del kWh (pari a 0,318 euro ottenuto dal rapporto della fattura rispetto ai kwh complessivi consumati nello stesso periodo).
 
 
 ### Conclusioni ###
