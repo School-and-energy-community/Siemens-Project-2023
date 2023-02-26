@@ -167,7 +167,7 @@ I consumi sopra indicati sono al netto dell'energia prodotta dall'attuale impian
 
 I picchi di potenza assorbita sono concentrati nella mattina e raggiungono valori massimi dell'ordine degli 80kW. Supponendo di realizzare un impianto fotovoltaico di potenza pari a 90kWp ed avendo a disposizione le superfici di copertura necessarie per la taglia designata, è possibile eliminare la cabina MT/BT passando ad una fornitura in BT. Infatti il costo lordo attuale in bolletta del kWh (pari a 0,318 euro ottenuto dal rapporto della fattura rispetto ai kwh complessivi consumati nello stesso periodo) non giustificherebbe gli oneri necessari alle verifiche periodiche di terra necessarie per i sistemi TN con cabina propria. Il passaggio ad un sistema TT eliminirebbe il problema delle tensioni trasferite a seguito di guasto lato MT, ovvero risolverebbe definitivamente il problema delle tensioni di passo e contatto e del loro mantenimento al di sotto dei limiti di guardia.
 
-Il beneficio oltre che di tipo ambientale 
+In uno scenario di questo tipo oltre al beneficio di tipo ambientale si avrebbe anche un beneficio di tipo paesaggistico trattandosi di superfici importanti di copertura da poter sfruttare posti in zone periferiche non soggette a particolari vincoli urbanistici. 
 
 
 ### Conclusioni ###
