@@ -19,7 +19,7 @@ Forse non tutti si rendono conto che la sponda del fiume dove ci troviamo è sba
 ### Finalità
 Il presente progetto ha come finalità il monitoraggio energetico di edifici scolastici e di edifici in genere al fine di ottenere:
 - in fase **preliminare** le informazioni utili per il risparmio energetico e per il dimensionamento di impianti di produzione da energia rinnovabile a servizio di comunità energetiche;
-- a **regime** le informazioni dettagliate circa il consumo e l'utilizzo ottimale degli impianti costituenti la comunità energetica.
+- a **regime** le informazioni dettagliate circa il consumo e l'utilizzo ottimale degli impianti costituenti future comunità energetiche.
 
 Il monitoraggio energetico si riferisce sia all'energia **elettrica** sia all'energia **termica** o ad altra forma di energia prodotta o immagazzinata.
 
