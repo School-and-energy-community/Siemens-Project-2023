@@ -65,11 +65,6 @@ Questo è lo scenario preferito per il progetto ***Schools as Energy Communities
 
 Nel caso ad esempio di impianti elettrici e termici solitamente vetusti a servizio delle scuole, si vuole offrire la possibilità al tecnico e/o al manutentore dell'Amministrazione Provinciale o Comunale, di avere l'andamento dei consumi osservando semplicemente il quadro elettrico o la centrale termica oggetto d'indagine.
 Per far questo si possono indossare occhiali tipo [Google Glass](https://www.google.com/glass/start/) o in alternativa si può utilizzare uno smartphone o un tablet qualsiasi ed inquadrare il QR Code posto sul quadro elettrico o sull'utenza. Per la lettura del QR Code il progetto prevede l'utilizzo di [Google Lens](https://play.google.com/store/apps/details?id=com.google.ar.lens&hl=it&gl=US&pli=1).
-Di seguito si riporta un QR Code per il lettore in modo da poter testare il funzionamento del sistema appena descritto: basta semplicemente inquadrare l'immagine sottostante anche attraverso uno smarphone per aprire la pagina "Graphs" di Google Sheets
-
-<img src="image/qrcode.png" width="200" height="200">
-
-Non è argomento di questo lavoro la cura dell'interfaccia grafica dei fogli se non nella misura funzionale e comprensibile per il raggiungimento delle finalità citate. Tuttavia si ricordano le diverse possibilità di creazione di interfacce utente attraverso le [Class Ui](https://developers.google.com/apps-script/reference/base/ui) di Google App Scripts nonchè attraverso l'installazione di componenti aggiuntivi dal menu *Estensioni*
 
 ### PLC S7 1x00: il vero punto di forza ###
 Abbiamo visto l'importanza del monitoraggio condiviso su cloud e della reperibilità delle informazioni mediante QR Code. Adesso si tratta di renderle operative sfruttando il web server del PLC Siemens. Il gruppo di lavoro del Galilei Artiglio ha realizzato un file Javascript in grado di leggere i contenuti delle celle desiderate e di passare i valori alle variabili del PLC. In questo modo il cerchio si chiude, nel senso che gli algoritmi impostati su foglio Sheet possono interagire con le uscite dell' S7 1x00 per la gestione dei carichi d'interesse. 
@@ -90,6 +85,8 @@ Di seguito è data la possibilità al lettore di testare le capacità del file s
 Se le cose sono andate a buon fine dovreste trovarvi all'interno di un foglio Sheet dove sono riportati semplicemente dei numeri di colore rosso sotto l'etichetta "Carico 1, Carico 2, ... Carico 6". Inserite dallo smartphone nuovi numeri a piacere facendo attenzione di indicare i decimali con la virgola (i valori numerici si inseriscono in basso a sinistra nel campo fx che appare dopo aver selezionato la cella da modificare).
 
 Aprite con Chrome questo [Link di TEST](https://www.albertodelcarlo.it/see/indextest.html) e dovreste vedere i numeri che avete inserito. Potete cambiarli nuovamente da smartphone e premere il tasto refresh del Browser per l'aggiornamento, oppure attendere il refresh automatico ogni sei secondi.
+
+Non è argomento di questo lavoro la cura dell'interfaccia grafica dei fogli se non nella misura funzionale e comprensibile per il raggiungimento delle finalità citate. Tuttavia si ricordano le diverse possibilità di creazione di interfacce utente attraverso le [Class Ui](https://developers.google.com/apps-script/reference/base/ui) di Google App Scripts nonchè attraverso l'installazione di componenti aggiuntivi dal menu *Estensioni*
 
 
 ### Architettura del sistema di monitoraggio
