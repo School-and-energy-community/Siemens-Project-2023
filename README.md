@@ -102,14 +102,23 @@ La caratterizzazione dei consumi elettrici di piu' utilizzatori attraverso un'un
 
 Ogni sforzo dunque è nel tentativo di riconoscere, partendo dal risultato finale ovvero la misura, il valore esatto dei vari contributi che lo generano. In pratica è un percorso inverso da come abitualmente lo conosciamo. E' come dire: il numero 10 è la somma di 3+2+5. Sì è vero, ma è anche il risultato della somma 6+4. Quale delle due ipotesi è quella giusta ? Per tentare di dare una risposta la tecnica NILM utilizza reti neurali ad hoc in combinazione al tipo di sensori utilizzati. Normalmente si tratta di sistemi chiusi o proprietari, ciascuno con un proprio grado di affidabilità.
 
-Il progetto dell'[IIS Galilei Artiglio](https://www.iisgalileiartiglio.edu.it/) accoglie dunque la seguente sfida: è possibile caricare su un PLC Siemens un algoritmo NILM per disaggregare real-time le misure di un sistema "leggero" che sfrutta come cloud Google Sheets? E l'algoritmo NILM è veramente così potente ed affidabile da rispettare rigorosamente la prima legge di Kircchoff? Ed ancora, pur essendo un algoritmo "potente" è anch'esso "leggero" da un punto di vista software così che si possa fare in qualsiasi momento un upgrade anche per PLC già funzionanti, non necessariamente programmati nell'ambito del risparmio energetico? La risposta è nel prosieguo del presente lavoro. 
+Il progetto dell'[IIS Galilei Artiglio](https://www.iisgalileiartiglio.edu.it/) accoglie dunque la seguente sfida: <span style="color:green"> è possibile caricare su un PLC Siemens un algoritmo NILM per disaggregare real-time le misure di un sistema "leggero" che sfrutta come cloud Google Sheets? E l'algoritmo NILM è veramente così potente ed affidabile da rispettare rigorosamente la prima legge di Kircchoff? Ed ancora, pur essendo un algoritmo "potente" è anch'esso "leggero" da un punto di vista software così che si possa fare in qualsiasi momento un upgrade anche per PLC già funzionanti, non necessariamente programmati nell'ambito del risparmio energetico?</span> La risposta è nel prosieguo del presente lavoro. 
 Si ricorda tuttavia che il sistema di monitoraggio è pensato sia per carichi **elettrici** sia per **termici** ed inoltre se ciascuna domanda trova una esauriente risposta, l'ambito di applicazione del presente lavoro va oltre le comunità energetiche rivolgendosi anche a tutte quelle realtà operative in ambito terrestre e navale e che utilizzano PLC.
 
 *Passiamo quindi dalle parole ai fatti per vedere se effettivamente esiste una risposta ai tre quesiti formulati*   
 
-Di seguito si riporta un esempio con cinque utenze. Essendo una simulazione offline del PLC, per avere risultati credibili, si raccomanda il lettore di completare i valori dei campi secondo il criterio della prima legge di Kircchoff. Ovviamente se la **somma fasoriale** non è rispettata il sistema risponderà con un messaggio di alert. Per collegarsi alla simulazione occorre cliccare sul link del web server del PLC Siemens (in caso di impianto reale i campi in bianco della misura totale e del cosfì sono valorizzati dalla misura dell'ESP32). L'errore assoluto deve essere maggiore di zero (non esistono misure senza errori).
+Di seguito si riporta un esempio con cinque utenze. Essendo una simulazione offline del PLC, per avere risultati credibili, si raccomanda il lettore di completare i valori dei campi secondo il criterio della prima legge di Kircchoff. Ovviamente se la **somma fasoriale** non è rispettata il sistema risponderà con un messaggio di alert. 
+Esistono due versioni software: 
+- la prima carica i valori dai campi di Google Sheets ed elabora il risultato attraverso il web server del PLC;
+- la seconda carica i valori dal PLC (che nella simulazione off-line devono essere inseriti dall'utente) ed elabora il risultato sempre attraverso il web server del PLC.
 
-<img src="image/plc.png" width="150" height="130"> [Link Web Server PLC Siemens](https://www.albertodelcarlo.it/see/sumcombine.html)
+Per collegarsi alla prima simulazione occorre inquadrare il QR Code seguente per accedere al foglio di calcolo 
+<img src="image/QRnilm.png" width="210" height="210">
+
+
+cliccare sul link del web server del PLC Siemens (in caso di impianto reale i campi in bianco della misura totale e del cosfì sono valorizzati dalla misura dell'ESP32). L'errore assoluto deve essere maggiore di zero (non esistono misure senza errori).
+
+<img src="image/plc.png" width="150" height="130"> [Link Web Server PLC Siemens](https://www.albertodelcarlo.it/see/sumcombinenilm.html)
 
 La conoscenza del dato disaggregato, ovvero dell'assorbimento dei singoli carichi, permette di:
 - stabilire un eventuale elenco di utenze secondarie da disconnettere in caso di consumo eccessivo rispetto all'accumulo considerato e/o dell'irraggiamento solare;
