@@ -116,11 +116,11 @@ Per collegarsi alla prima simulazione occorre inquadrare il QR Code seguente per
 
 <img src="image/QRnilm.png" width="210" height="210">
 
-Cliccare poi sul link del web server del PLC Siemens e premere il pulsante di analisi dell'algoritmo NILM dopo aver valorizzato le celle di spreadsheet. L'errore assoluto impostabile dall'utente deve essere maggiore di zero (non esistono misure senza errori).
+Cliccare poi sul link del web server del PLC Siemens e premere il pulsante di analisi dell'algoritmo NILM dopo aver valorizzato le celle di spreadsheet. L'errore assoluto impostabile dall'utente deve essere maggiore di zero (non esistono misure senza errori). Se due o piu'correnti sono esattamente uguali in modulo e fase (caso raro ma non impossibile) rispetto all'errore assoluto, l'algoritmo propone la soluzione scegliendo una corrente dall'insieme dei casi possibili. Va ricordato che nei casi reali due o piu' carichi esattamente uguali sono intercambiabili ai fini energetici.
 
 <img src="image/plc.png" width="150" height="130"> [Link Web Server PLC Siemens](https://www.albertodelcarlo.it/see/sumcombinenilm.html)
 
-Per collegarsi alla seconda simulazione cliccare sul link del web server del PLC Siemens
+Per collegarsi alla seconda simulazione cliccare sul successivo link 
 
 <img src="image/plc.png" width="150" height="130"> [Link Web Server PLC Siemens](https://www.albertodelcarlo.it/see/sumcombine.html)
 
