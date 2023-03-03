@@ -116,7 +116,7 @@ Per collegarsi alla prima simulazione occorre inquadrare il QR Code seguente per
 
 <img src="image/QRnilm.png" width="210" height="210">
 
-Cliccare poi sul link del web server del PLC Siemens e premere il pulsante di analisi dell'algoritmo NILM dopo aver valorizzato le celle di spreadsheet. L'errore assoluto impostabile dall'utente deve essere maggiore di zero (non esistono misure senza errori). Se due o piu'correnti sono esattamente uguali in modulo e fase (caso raro ma non impossibile) rispetto all'errore assoluto, l'algoritmo propone la soluzione scegliendo una corrente dall'insieme dei casi possibili. Va ricordato che nei casi reali due o piu' carichi esattamente uguali sono intercambiabili ai fini energetici.
+Cliccare poi sul link del web server del PLC Siemens e premere il pulsante di analisi dell'algoritmo NILM dopo aver valorizzato le celle di spreadsheet. L'errore assoluto impostabile dall'utente deve essere maggiore di zero (non esistono misure senza errori). Se due o piu'correnti sono esattamente uguali in modulo e fase (caso molto raro, si veda la risoluzione della misura riportata di seguito) rispetto all'errore assoluto, l'algoritmo propone la soluzione scegliendo una corrente dall'insieme dei casi possibili. Va ricordato che nei casi reali due o piu' carichi # esattamente # uguali sono intercambiabili ai fini energetici.
 
 <img src="image/plc.png" width="150" height="130"> [Link Web Server PLC Siemens](https://www.albertodelcarlo.it/see/sumcombinenilm.html)
 
@@ -132,10 +132,20 @@ La conoscenza del dato disaggregato, ovvero dell'assorbimento dei singoli carich
 - valutare economicamente le sostituzioni con utenze che utilizzano tecnologie piu' moderne (es. led, inverter, controllori PID ecc.);
 - migliorare/modificare le abitudini di consumo dell'utente grazie anche all'utilizzo combinato con il PLC Siemens S7 1x00.
 
-La "bontà" delle misure della corrente e del cosfì totale può essere eventualmente verificata/allineata alle misure messe a disposizione ogni 15 minuti dal servizio di [e-Distribuzione](https://www.e-distribuzione.it/servizi/contatore/le-mie-letture.html) sottoforma di file csv da importare in Google Sheet. In questo modo il servizio di e-Distribuzione può essere integrato con il sistema di monitoraggio proposto nel presente lavoro. 
+Il sensore di misura utilizzato ha un range di misura 0-100A con le seguenti caratteristiche:
+- misura di tensione: risoluzione di 0.1V con accuratezza dello 0.5%
+- misura di corrente: risoluzione di 0.001A con accuratezza dello 0.5%
+- misura di potenza attiva: risoluzione di 0.1W con accuratezza dello 0.5%
+- misura del cosfì: risoluzione di 0.01 con accuratezza dell'1%
+- misura della frequenza: risoluzione di 0.1Hz con accuratezza dello 0.5%
+- misura dell'energia attiva: risoluzione di 1Wh con accuratezza dello 0.5%
 
-Naturalmente anche in questo caso il collegamento al web server del PLC potrebbe avvenire sfruttando occhiali di realtà aumentata recuperando le informazioni da smarphone.
-Per chi volesse approfondire l'aspetto matematico del modello proposto nel file JS che tratta la prima legge di Kirchhoff può cliccare [qui](https://www.albertodelcarlo.it/see/dsemplici.html).
+In ogni caso la "bontà" delle misure della corrente, del cosfì e dell'energia può essere eventualmente verificata/allineata alle misure messe a disposizione ogni 15 minuti dal servizio di [e-Distribuzione](https://www.e-distribuzione.it/servizi/contatore/le-mie-letture.html) sottoforma di file csv da importare in Google Sheet. In questo modo il servizio di e-Distribuzione può essere integrato con il sistema di monitoraggio proposto nel presente lavoro. 
+
+Si fa notare che l'alboritmo può utilizzare indifferentemente anche le misure provenienti da un energy meter Siemens sfruttando il web server del PLC. 
+
+Naturalmente anche in questo caso, sfruttando sempre il web server del PLC, le informazioni dell'algoritmo possono essere comunicate attraverso occhiali di realtà aumentata.
+Per chi volesse approfondire l'aspetto matematico dell'algoritmo che tratta la prima legge di Kirchhoff può cliccare [qui](https://www.albertodelcarlo.it/see/dsemplici.html).
 
 ### Ottimizzare le abitudini di consumo con il PLC S7 1x00 ###
 Apparentemente un sistema energetico efficientato alla tecnica vigente ed in modo sostenibile da un punto di vista economico, non ha ulteriori margini di miglioramento se non nell'ottimizzazione delle abitudini di consumo. In generale però, modificare le proprie abitudini non è mai una cosa facile. Ancor di meno se si tratta di attività quotidiane ritenute "necessarie e irrinunciabili". Il progetto **Schools as Energy Communities** si pone appunto l'obiettivo di facilitare il piu' possibile l'interazione tra l'utente ed i consumi energetici, consigliandolo nelle scelte di risparmio possibili attraverso la ***realtà aumentata con interfaccia vocale***. Abbiamo già visto che in alternativa alla realtà aumentata può essere utilizzato un tablet od uno smartphone. Di seguito vedremo come l'utente può ricevere consigli vocali circa la scelta di scenari possibili di risparmio energetico.
