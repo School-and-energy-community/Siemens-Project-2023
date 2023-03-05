@@ -171,7 +171,7 @@ Questo è il [link](https://docs.google.com/spreadsheets/d/17lbGQv7HnVwdzzGU7jiq
 Ma non vi è solo l'aspetto legato all'energia termica per il riscaldamento. Abbinare il funzionamento di uno o piu' PLC alle previsioni meteo, permette anche di ottimizzare il funzionamento in campo di energy storage delle batterie al sale fuso prevedendo con largo anticipo l'energia disponibile per la temperatura di fusione del nucleo.  
 Il grafico seguente indica proprio come il miglior impiego per questa tipologia di batterie green sia dalle 2 alle 10 ore di total backup time. Per una scuola con attività didattica svolta prevalentemente la mattina, ovvero con la massima insolazione, è ragionevole ipotizzarne i periodi di utilizzo proprio nel pomeriggio e la sera dove i carichi ridotti sono noti e costanti.
 
-img src="image/bsale.png" width="220" height="140"
+<img src="image/bsale.png" width="450" height="250">
 
 ### Cenni sul monitoraggio dei consumi termici ###
 L'ESP32 utilizzato in combinazione con vari tipi di trasduttori è di fatto un sensore flessibile in grado di trasmettere le misure direttamente su Google Sheets. Se configurato per la lettura della temperatura mediante PT100 è in grado anche di fornire i consumi termici degli edifici. In pratica è sufficiente misurare la variazione di temperatura tra la mandata ed il ritorno del fluido termovettore una volta nota la portata del circolatore. I valori ottenuti possono essere valorizzati direttamente dalle celle di calcolo e passati al web server del PLC per il controllo e/o l'interazione vocale con l'utente. Per circolatori a portata variabile è necessario integrare alla PT100 un flussostato.
