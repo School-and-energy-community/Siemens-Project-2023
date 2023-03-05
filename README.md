@@ -206,6 +206,9 @@ Inoltre è auspicabile il passaggio a generatori di calore che sfruttano tecnolo
 
 
 ### Conclusioni ###
+Con questo lavoro si è voluto evidenziare come "il contenitore Energie Rinnovabili" a cui appartengono le comunità energetiche, puo' essere arricchito di ulteriori contenuti, di idee, di tecnologie possibili già da adesso con un potenziale notevole per un futuro a portata di mano.
+Integrare gli strumenti potenti del Web con algoritmi "addestrabili" che girano sui PLC per gestire scenari energetici e per fornire informazioni all'utente attraverso la realtà aumentata e/o interfacce vocali è possibile. 
+
 
 #### Video  ####
 Video di presentazione del progetto
