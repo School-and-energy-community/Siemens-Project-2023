@@ -206,8 +206,10 @@ Inoltre è auspicabile il passaggio a generatori di calore che sfruttano tecnolo
 
 
 ### Conclusioni ###
-Con questo lavoro si è voluto evidenziare come "il contenitore Energie Rinnovabili" a cui appartengono le comunità energetiche, puo' essere arricchito di ulteriori contenuti, di idee, di tecnologie possibili già da adesso con un potenziale notevole per un futuro a portata di mano.
-Integrare gli strumenti potenti del Web con algoritmi "addestrabili" che girano sui PLC per gestire scenari energetici e per fornire informazioni all'utente attraverso la realtà aumentata e/o interfacce vocali è possibile. 
+Con questo lavoro si è voluto evidenziare come "il contenitore Energie Rinnovabili" a cui appartengono le comunità energetiche, puo' essere arricchito di ulteriori contenuti, di idee, di tecnologie possibili già da adesso, portatrici di un potenziale notevole per un futuro a portata di mano.
+Integrare gli strumenti potenti del Web con algoritmi "addestrabili" che girano sui PLC per gestire scenari energetici e per fornire informazioni all'utente attraverso la realtà aumentata e/o interfacce vocali è possibile. A differenza degli alberi che migliorano l'ambiente in cui vivono, l'uomo delle società moderne aumenta costantemente il disordine (ovvero l’entropia) del sistema in cui vive. Ma per ripristinare rapidamente l’ordine perduto ha bisogno di altra energia spingendo il sistema ad una irreversibilità ambientale e climatica che oggi è sotto gli occhi di tutti. Per questo è importante essere consapevoli dei propri consumi, conoscere l'energia necessaria alle nostre abitudini.
+  
+Certamente non basta sensibilizzare, ma occorre una formazione mirata. Dobbiamo imparare, dobbiamo migliorarci tutti. In questo senso la scuola può fare la sua parte.
 
 
 #### Video  ####
