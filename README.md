@@ -209,8 +209,7 @@ Inoltre è auspicabile il passaggio a generatori di calore che sfruttano tecnolo
 Con questo lavoro si è voluto evidenziare come "il contenitore Energie Rinnovabili" a cui appartengono le comunità energetiche, puo' essere arricchito di ulteriori contenuti, di idee, di tecnologie possibili già da adesso, portatrici di un potenziale notevole per un futuro a portata di mano.
 Integrare gli strumenti potenti del Web con algoritmi "addestrabili" che girano sui PLC per gestire scenari energetici e per fornire informazioni all'utente attraverso la realtà aumentata e/o interfacce vocali è possibile. Renderci piu' consapevoli dei consumi legati alle nostre abitudini è possibile.
 A differenza degli alberi che migliorano l'ambiente in cui vivono, l'uomo delle società moderne aumenta costantemente il disordine (ovvero l’entropia) del sistema in cui vive. Un esempio per tutti l'immondizia che giornalmente produciamo. Ma per ripristinare rapidamente l’ordine perduto abbiamo bisogno di altra energia spingendo il sistema ad una irreversibilità ambientale e climatica che oggi è sotto gli occhi di tutti. Per questo è piu' che mai importante essere consapevoli dei propri consumi, dell'impatto sull'ambiente delle nostre abitudini. Occorre prima di tutto essere ben consapevoli di quello che facciamo e di quello che possiamo fare, utilizzando anche strumenti che ci aiutino concretamente a migliorare le nostre scelte.
-  
-Certamente non basta sensibilizzare, ma occorre una formazione mirata. Dobbiamo imparare, dobbiamo migliorarci tutti. In questo senso la scuola può fare la sua parte.
+Dagli alberi possiamo imparare strategie di comunità. Solo se saremo capaci di fare rete, di collaborare insieme, ciascuno secondo le proprie capacità nel rispetto della diversità. Dobbiamo imparare, dobbiamo migliorarci tutti. E in questo senso la scuola può fare la sua parte.
 
 
 #### Video  ####
