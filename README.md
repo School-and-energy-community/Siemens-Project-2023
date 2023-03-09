@@ -137,7 +137,7 @@ La conoscenza del dato disaggregato, ovvero dell'assorbimento dei singoli carich
 - valutare economicamente le sostituzioni con utenze che utilizzano tecnologie piu' moderne (es. led, inverter, controllori PID ecc.);
 - migliorare/modificare le abitudini di consumo dell'utente grazie anche all'utilizzo combinato con il PLC Siemens S7 1x00.
 
-Il sensore di misura utilizzato nel progetto ha un range di misura 0-100A con le seguenti caratteristiche:
+Il sensore di misura utilizzato nel progetto è il PZEM-004T che ha un range di misura 0-100A con le seguenti caratteristiche:
 - misura di tensione: risoluzione di 0.1V con accuratezza dello 0.5%
 - misura di corrente: risoluzione di 0.001A con accuratezza dello 0.5%
 - misura di potenza attiva: risoluzione di 0.1W con accuratezza dello 0.5%
