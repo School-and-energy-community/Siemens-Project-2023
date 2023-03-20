@@ -114,8 +114,9 @@ Si ricorda tuttavia che il sistema di monitoraggio è pensato sia per carichi **
 
 Di seguito si riporta un esempio con cinque utenze. Essendo una simulazione offline del PLC, per avere risultati credibili, si raccomanda il lettore di completare i valori dei campi secondo il criterio della prima legge di Kircchoff. Ovviamente se la **somma fasoriale** non è rispettata il sistema risponderà con un messaggio di alert. 
 Esistono due versioni software: 
-- la prima carica i valori dai campi di Google Sheets ed elabora il risultato attraverso il web server del PLC;
-- la seconda carica i valori dal PLC ed elabora il risultato sempre attraverso il web server del PLC.
+- la prima carica i valori dai campi di Google Sheets ed elabora il risultato attraverso il web server;
+- la seconda carica i valori ed elabora il risultato direttamente nel web server.
+In pratica sfruttando il web server del PLC possiamo ottenere gli stessi risultati come mostrato nel video di presentazione del progetto Schools as Energy Communities.
 
 Per collegarsi alla prima simulazione occorre inquadrare il QR Code seguente per accedere al foglio di calcolo 
 
