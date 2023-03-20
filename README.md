@@ -126,12 +126,11 @@ Si ribadisce che nella realtà esiste una relazione matematica tra dato aggregat
 
 ***In altre parole il concetto da tenere in mente in ambedue le simulazioni è : imposto manualmente il risultato della somma vettoriale affinchè l'algoritmo mi indichi i singoli carichi e non il viceversa***
 
-Nella seconda versione software lo switch-off elimina il contributo del singolo carico ma la memorizzazione dell'assorbimento rimane inalterata e si ripristina con lo switch-on
-
 Di seguito il link della PRIMA versione software
 
 <img src="image/plc.png" width="150" height="130"> [Link Web Server PLC Siemens](https://www.albertodelcarlo.it/see/sumcombinenilm.html)
 
+Nella seconda versione software lo switch-off elimina il contributo del singolo carico ma la memorizzazione dell'assorbimento rimane inalterata e si ripristina con lo switch-on.
 Per collegarsi alla SECONDA versione software cliccare sul successivo link 
 
 <img src="image/plc.png" width="150" height="130"> [Link Web Server PLC Siemens](https://www.albertodelcarlo.it/see/sumcombine.html)
