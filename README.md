@@ -116,7 +116,8 @@ Di seguito si riporta un esempio con cinque utenze. Essendo una simulazione offl
 Esistono due versioni software: 
 - la prima carica i valori dai campi di Google Sheets ed elabora il risultato attraverso il web server;
 - la seconda carica i valori ed elabora il risultato direttamente nel web server.
-In pratica sfruttando il web server del PLC possiamo ottenere gli stessi risultati come mostrato nel video di presentazione del progetto Schools as Energy Communities.
+
+In pratica sfruttando il web server del PLC possiamo ottenere gli stessi risultati come mostrato nel video di presentazione del progetto **Schools as Energy Communities**.
 
 Per collegarsi alla prima simulazione occorre inquadrare il QR Code seguente per accedere al foglio di calcolo 
 
