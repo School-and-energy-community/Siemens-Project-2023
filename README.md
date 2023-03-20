@@ -113,7 +113,7 @@ Si ricorda tuttavia che il sistema di monitoraggio è pensato sia per carichi **
 *Passiamo quindi dalle parole ai fatti per vedere se effettivamente esiste una risposta ai tre quesiti formulati*   
 
 Di seguito si riporta un esempio con cinque utenze. Essendo una simulazione offline del PLC, per avere risultati credibili, si raccomanda il lettore di completare i valori dei campi secondo il criterio della prima legge di Kircchoff. Ovviamente se la **somma fasoriale** non è rispettata il sistema risponderà con un messaggio di alert. 
-Esistono due versioni software: 
+L'IIS Galilei Artiglio ha sviluppato due modalità di lavoro dell'algoritmo: 
 - la prima carica i valori dai campi di Google Sheets ed elabora il risultato attraverso il web server;
 - la seconda carica i valori ed elabora il risultato direttamente nel web server.
 
@@ -128,12 +128,12 @@ Si ribadisce che nella realtà esiste una relazione matematica tra dato aggregat
 
 ***In altre parole il concetto da tenere in mente in ambedue le simulazioni è : imposto manualmente il risultato della somma vettoriale affinchè l'algoritmo mi indichi i singoli carichi e non il viceversa***
 
-Di seguito il link della PRIMA versione software
+Di seguito il link della PRIMA modalità di lavoro dell'algoritmo
 
 <img src="image/plc.png" width="150" height="130"> [Link Web Server PLC Siemens](https://www.albertodelcarlo.it/see/sumcombinenilm.html)
 
-Nella seconda versione software lo switch-off elimina il contributo del singolo carico ma la memorizzazione dell'assorbimento rimane inalterata e si ripristina con lo switch-on.
-Per collegarsi alla SECONDA versione software cliccare sul successivo link 
+Nella SECONDA modalità di lavoro lo switch-off elimina il contributo del singolo carico ma la memorizzazione dell'assorbimento rimane inalterata e si ripristina con lo switch-on.
+Cliccare sul successivo link per utilizzare la seconda modalità di lavoro dell'algoritmo NILM
 
 <img src="image/plc.png" width="150" height="130"> [Link Web Server PLC Siemens](https://www.albertodelcarlo.it/see/sumcombine.html)
 
