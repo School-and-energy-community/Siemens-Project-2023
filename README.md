@@ -225,8 +225,8 @@ A differenza degli alberi che migliorano l'ambiente in cui vivono, l'uomo delle 
 Dagli alberi possiamo imparare strategie di comunità. Solo se saremo capaci di fare rete, di collaborare insieme, ciascuno secondo le proprie capacità nel rispetto delle diversità, proprio come fa il bosco, potremo mitigare l'impatto entropico sull'ambiente. Dobbiamo imparare, dobbiamo migliorarci tutti. E in questo senso la scuola può fare la sua parte.
 
 
-#### Video  ####
-Video di presentazione del progetto
+#### Video del progetto Schools as Energy Communities ####
+Video di presentazione del progetto al Campionato Nazionale Siemens 2023
 
 <iframe width="640" height="320" src="https://youtube.com/embed/eFCiIB9qpY4" ></iframe>
 
