@@ -124,7 +124,9 @@ Per collegarsi alla prima simulazione occorre inquadrare il QR Code seguente per
 Cliccare poi sul [Link del web server del PLC Siemens](https://www.albertodelcarlo.it/see/sumcombinenilm.html) e premere il pulsante di analisi dell'algoritmo NILM dopo aver valorizzato le celle di spreadsheet. L'errore assoluto impostabile dall'utente deve essere maggiore di zero (non esistono misure senza errori). Se due o piu'correnti sono esattamente uguali in modulo e fase (caso molto raro, si veda la risoluzione della misura riportata di seguito) rispetto all'errore assoluto, l'algoritmo propone la soluzione scegliendo una corrente dall'insieme dei casi possibili. Va ricordato che nei casi reali due o piu' carichi *esattamente* uguali sono intercambiabili ai fini energetici.
 Si ribadisce che nella realtà esiste una relazione matematica tra dato aggregato e dato disaggregato. 
 
-***In altre parole il concetto da tenere in mente in ambedue le simulazioni è : imposto manualmente il risultato della somma vettoriale affinchè l'algoritmo mi indichi i singoli carichi e non il viceversa***
+***In altre parole il concetto da tenere in mente in ambedue le simulazioni è : valorizzo le celle delle corenti delle singole utenze (fase di addestramento) e successivamente valorizzo la cella della misura come somma vettoriale di una o piu' utenze affinchè l'algoritmo individui la combinazione dei carichi (fase di riconoscimento). L'errore assoluto ha un ruolo fondamentale nell'individuazione delle combinazioni possibili***
+
+Si ribadisce che nella modalità online le celle sono valorizzate dalla misura di ESP32 come mostrato nel video di presentazione del progetto.
 
 Di seguito il link della PRIMA modalità di lavoro dell'algoritmo
 
