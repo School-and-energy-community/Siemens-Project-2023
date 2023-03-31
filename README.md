@@ -108,7 +108,7 @@ Ogni sforzo dunque è nel tentativo di riconoscere, partendo dal risultato final
 Il progetto dell'[IIS Galilei Artiglio](https://www.iisgalileiartiglio.edu.it/) accoglie dunque la seguente sfida: <span style="color:blue"> è possibile caricare su un PLC Siemens un algoritmo NILM per disaggregare real-time le misure di un sistema "leggero" che sfrutta come cloud Google Sheets? E l'algoritmo NILM è veramente così potente ed affidabile da rispettare rigorosamente la prima legge di Kirchhoff?</span> La risposta è nel prosieguo del presente lavoro. 
 Si ricorda tuttavia che il sistema di monitoraggio è pensato sia per carichi **elettrici** sia per carichi **termici** ed inoltre l'ambito di applicazione dell'algoritmo seguente va oltre le comunità energetiche rivolgendosi anche a tutte quelle realtà operative in ambito terrestre e navale che vogliono conoscere gli assorbimenti dei singoli carichi.
 
-*Passiamo quindi dalle parole ai fatti per vedere se effettivamente esiste una risposta ai tre quesiti formulati*   
+*Passiamo quindi dalle parole ai fatti per vedere se effettivamente esiste una risposta ai quesiti formulati*   
 
 Di seguito si riporta un esempio con cinque utenze. Essendo una simulazione offline del PLC, per avere risultati credibili, si raccomanda il lettore di completare i valori dei campi secondo il criterio della prima legge di Kircchoff. Ovviamente se la **somma fasoriale** non è rispettata il sistema risponderà con un messaggio di alert. 
 L'IIS Galilei Artiglio ha sviluppato due modalità di lavoro dell'algoritmo: 
