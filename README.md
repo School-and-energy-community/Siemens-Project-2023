@@ -83,7 +83,7 @@ E' anche possibile individuare impianti o porzioni di impianto da attivare ad es
 
 Di seguito è data la possibilità al lettore di testare le capacità del file sviluppato dal gruppo di lavoro, in grado di far comunicare il PLC Siemens direttamente con i contenuti di Google Sheets. Per prima cosa inquadrare il QR Code seguente con lo smartphone (si consiglia di utilizzare il menu "Cerca" dell'App [Google Lens](https://play.google.com/store/apps/details?id=com.google.ar.lens&hl=it&gl=US) dopo aver inquadrato il QR Code)
 
-<img src="image/qrcode2.png" width="200" height="200"> oppure nclicca [qui](https://docs.google.com/spreadsheets/d/1h_7r-1QIDCGWO_2RPkeEgHg4gKenMNhIaW_HhNjRBwU/edit#gid=0)
+<img src="image/qrcode2.png" width="200" height="200"> oppure clicca [qui](https://docs.google.com/spreadsheets/d/1h_7r-1QIDCGWO_2RPkeEgHg4gKenMNhIaW_HhNjRBwU/edit#gid=0)
 
 Se le cose sono andate a buon fine dovreste trovarvi all'interno di un foglio Sheet dove sono riportati semplicemente dei numeri di colore rosso sotto l'etichetta "Carico 1, Carico 2, ... Carico 6". Inserite dallo smartphone nuovi numeri a piacere facendo attenzione di indicare i decimali con la virgola (i valori numerici si inseriscono in basso a sinistra nel campo fx che appare dopo aver selezionato la cella da modificare).
 
@@ -105,7 +105,7 @@ La caratterizzazione dei consumi elettrici di piu' utilizzatori attraverso un'un
 
 Ogni sforzo dunque è nel tentativo di riconoscere, partendo dal risultato finale ovvero la misura, il valore esatto dei vari contributi che lo generano. In pratica è un percorso inverso da come abitualmente lo conosciamo. E' come dire: il numero 10 è la somma di 3+2+5. Sì è vero, ma è anche il risultato della somma 6+4. Quale delle due ipotesi è quella giusta ? Per tentare di dare una risposta la tecnica NILM utilizza reti neurali ad hoc in combinazione al tipo di sensori utilizzati. Normalmente si tratta di sistemi chiusi o proprietari, ciascuno con un proprio grado di affidabilità.
 
-Il progetto dell'[IIS Galilei Artiglio](https://www.iisgalileiartiglio.edu.it/) accoglie dunque la seguente sfida: <span style="color:blue"> è possibile caricare su un PLC Siemens un algoritmo NILM per disaggregare real-time le misure di un impiantoa che sfrutta il servizio Google Sheets? E l'algoritmo NILM è veramente così potente ed affidabile da rispettare rigorosamente la prima legge di Kirchhoff?</span> La risposta è nel prosieguo del presente lavoro. 
+Il progetto dell'[IIS Galilei Artiglio](https://www.iisgalileiartiglio.edu.it/) accoglie dunque la seguente sfida: <span style="color:blue"> è possibile caricare su un PLC Siemens un algoritmo NILM per disaggregare real-time le misure di un impianto che sfrutta il servizio Google Sheets? E l'algoritmo NILM è veramente così potente ed affidabile da rispettare rigorosamente la prima legge di Kirchhoff ?</span> La risposta è nel prosieguo del presente lavoro. 
 Si ricorda tuttavia che il sistema di monitoraggio è pensato sia per carichi **elettrici** sia per carichi **termici** ed inoltre l'ambito di applicazione dell'algoritmo seguente va oltre le comunità energetiche rivolgendosi anche a tutte quelle realtà operative in ambito terrestre e navale che vogliono conoscere gli assorbimenti dei singoli carichi.
 
 *Vediamo allora se esiste concretamente una risposta ai quesiti formulati*   
