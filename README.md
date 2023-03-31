@@ -126,7 +126,7 @@ Si ribadisce che nella realtà esiste una relazione matematica tra dato aggregat
 
 ***In altre parole il concetto da tenere in mente in ambedue le simulazioni è : valorizzo le celle delle corenti delle singole utenze (fase di addestramento) e successivamente valorizzo la cella della misura come somma vettoriale di una o piu' utenze affinchè l'algoritmo individui la combinazione dei carichi (fase di riconoscimento). L'errore assoluto ha un ruolo fondamentale nell'individuazione delle combinazioni possibili***
 
-Si ribadisce che nella modalità online le celle sono valorizzate dalla misura di ESP32 come mostrato nel video di presentazione del progetto.
+Preme qui evidenziare che nella modalità di funzionamento "online" le celle sono valorizzate dalla misura di ESP32 come mostrato nel video di presentazione del progetto.
 
 Di seguito il link della PRIMA modalità di lavoro dell'algoritmo
 
