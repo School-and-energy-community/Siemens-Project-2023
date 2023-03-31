@@ -192,7 +192,7 @@ I circolatori a servizio dell'impianto termico del Galilei Artiglio sono circola
 
 Come nel caso precedente per accedere a Google Sheet inquadrare il QR Code
 
-<img src="image/QRthermo.png" width="210" height="210">
+<img src="image/QRthermo.png" width="210" height="210">oppure clicca [qui](https://docs.google.com/spreadsheets/d/1TIMMN5FmaF-4R0IwVFRBvthWtzKgPA-absok21Qr93E/edit#gid=0)
 
 e interagire con l'interfaccia vocale dell'impianto termico cliccando sul link sottostante
 
