@@ -74,7 +74,7 @@ Per far questo si possono indossare occhiali tipo [Google Glass](https://www.goo
 ### PLC S7 1x00: il vero punto di forza ###
 Abbiamo detto dell'importanza del monitoraggio condiviso su cloud e della reperibilità delle informazioni mediante QR Code. Adesso si tratta di renderle operative sfruttando il web server del PLC Siemens. Il gruppo di lavoro del Galilei Artiglio ha realizzato un file Javascript in grado di leggere i contenuti delle celle desiderate e di passare i valori alle variabili del PLC. 
 
-<img src="image/giphysiemens.gif" width="150" height="50">
+<img src="image/giphysiemens.gif" width="150" height="150">
 
 In questo modo il cerchio si chiude, nel senso che gli algoritmi impostati su foglio Sheet possono interagire con le uscite dell' S7 1x00 per la gestione dei carichi d'interesse. 
 Soffermiamoci un attimo su questo passaggio: <span style="color:blue">le misure energetiche di diversi impianti dispersi sul territorio, sono raccolte all'interno di un foglio di calcolo presente nel Cloud ed accessibile online da piu' utenti secondo restrizioni impostate. Le celle di detto foglio, valorizzate da specifici algoritmi o da valori impostati dagli stessi utenti, costituiscono l'input per uno o piu' PLC Siemens connessi agli impianti costituenti la comunità energetica. Così un sistema distribuito di edifici attivi-passivi diversi per destinazione ed utilizzo, è gestito in modo integrato come se si trattasse di un unico impianto e dove ogni utente può interagire alla pari con la parte che gli compete. </span>
