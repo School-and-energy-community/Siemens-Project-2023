@@ -231,7 +231,7 @@ Video di presentazione del progetto al Campionato Nazionale Siemens 2023
 <iframe width="640" height="320" src="https://youtube.com/embed/eFCiIB9qpY4" ></iframe>
 
 #### Ringraziamenti ####
-L'IIS Galilei Artiglio ringrazia l'Ufficio Tecnico della [Provincia di Lucca](https://www.provincia.lucca.it/) <img src="image/logolu.png" width="30" height="30"> per aver fornito le bollette dei consumi energetici dell'Istituto e per la disponibilità del tecnico provinciale responsabile degli impianti che ha seguito, in piu' incontri in presenza, le attività degli studenti sul quadro elettrico di laboratorio ed in centrale termica.
+L'IIS Galilei Artiglio ringrazia l'Ufficio Tecnico della [Provincia di Lucca](https://www.provincia.lucca.it/) <img src="image/logolu.png" width="30" height="30"> per aver fornito le bollette dei consumi energetici dell'Istituto e per la disponibilità del tecnico provinciale responsabile degli impianti che ha seguito le attività degli studenti sul quadro elettrico di laboratorio ed in centrale termica.
 Tali attività hanno consentito agli stessi studenti di misurarsi con diverse problematiche e di affrontare argomenti multidisciplinari legati agli apporti energetici attivi e passivi degli edifici costituenti la comunità scolastica.
 Si ringraziano inoltre i bambini e le insegnanti della [Scuola Diffusa](https://www.instagram.com/scuoladiffusa/) di Catania per il loro prezioso contributo. 
 
