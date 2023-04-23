@@ -65,11 +65,11 @@ Infatti, per migliorare la percezione da parte dell'utente dei consumi, si è pe
 
 <img src="image/giphyra.gif" width="320" height="150">
 
-Facendo riferimento agli occhiali [RayNeo X2](https://www.rayneo.com/pages/developer), è possibile iscriversi nella sezione Developer per partecipare e alla fase di reclutamento per sviluppatori. 
+Facendo riferimento agli occhiali [RayNeo X2](https://www.rayneo.com/pages/developer), è possibile scaricare dalla sezione Download il software necessario al collegamento a smartphone oppure a PC.  
 Questo è lo scenario preferito per il progetto ***Schools as Energy Communities*** che prevede un uso "aperto" della realtà aumentata personalizzabile in base alle necessità dell'utente.
 
 Nel caso ad esempio di impianti elettrici e termici solitamente vetusti a servizio delle scuole, si vuole offrire la possibilità al tecnico e/o al manutentore dell'Amministrazione Provinciale o Comunale, di avere l'andamento dei consumi osservando semplicemente il quadro elettrico o la centrale termica oggetto d'indagine.
-Per far questo si possono indossare occhiali tipo [Google Glass](https://www.google.com/glass/start/) o in alternativa si può utilizzare uno smartphone o un tablet qualsiasi ed inquadrare il QR Code posto sul quadro elettrico o sull'utenza. Per la lettura del QR Code il progetto prevede l'utilizzo di [Google Lens](https://play.google.com/store/apps/details?id=com.google.ar.lens&hl=it&gl=US&pli=1).
+Per far questo si possono indossare i già citati occhiali a realtà aumentata oppure in alternativa si può utilizzare uno smartphone o un tablet qualsiasi ed inquadrare il QR Code posto sul quadro elettrico o sull'utenza. Per la lettura del QR Code il progetto prevede l'utilizzo di [Google Lens](https://play.google.com/store/apps/details?id=com.google.ar.lens&hl=it&gl=US&pli=1).
 
 ### PLC S7 1x00: il vero punto di forza ###
 Abbiamo detto dell'importanza del monitoraggio condiviso su cloud e della reperibilità delle informazioni mediante QR Code. Adesso si tratta di renderle operative sfruttando il web server del PLC Siemens. Il gruppo di lavoro del Galilei Artiglio ha realizzato un file Javascript in grado di leggere i contenuti delle celle desiderate e di passare i valori alle variabili del PLC.
