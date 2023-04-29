@@ -155,9 +155,7 @@ Il sensore di misura utilizzato nel progetto è il PZEM-004T che ha un range di 
 
 In ogni caso la "bontà" delle misure della corrente, del cosfì e dell'energia può essere eventualmente verificata/allineata alle misure messe a disposizione ogni 15 minuti dal servizio di [e-Distribuzione](https://www.e-distribuzione.it/servizi/contatore/le-mie-letture.html) sottoforma di file csv da importare in Google Sheet. In questo modo il servizio di e-Distribuzione può essere integrato con il sistema di monitoraggio proposto nel presente lavoro. 
 
-Si fa notare che l'algoritmo può utilizzare indifferentemente anche le misure provenienti da un energy meter Siemens sfruttando il web server del PLC. 
-
-Naturalmente anche in questo caso, sfruttando sempre il web server del PLC, le informazioni dell'algoritmo possono essere comunicate attraverso occhiali di realtà aumentata.
+Si fa notare che l'algoritmo può utilizzare indifferentemente anche le misure provenienti da un energy meter Siemens sfruttando il web server del PLC ed anche in questo caso le risposte dell'algoritmo possono essere comunicate attraverso occhiali di realtà aumentata.
 Per chi volesse approfondire l'aspetto matematico dell'algoritmo che tratta la prima legge di Kirchhoff può cliccare [qui](https://www.albertodelcarlo.it/see/dsemplici.html).
 
 ### Ottimizzare le abitudini di consumo con il PLC S7 1x00 ###
