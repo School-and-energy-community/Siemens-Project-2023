@@ -85,7 +85,7 @@ Di seguito è data la possibilità al lettore di testare le capacità del file s
 
 <img src="image/qrcode2.png" width="200" height="200"> oppure clicca [qui](https://docs.google.com/spreadsheets/d/1h_7r-1QIDCGWO_2RPkeEgHg4gKenMNhIaW_HhNjRBwU/edit#gid=0)
 
-Se le cose sono andate a buon fine dovreste trovarvi all'interno di un foglio Sheet dove sono riportati semplicemente dei numeri di colore rosso sotto l'etichetta "Carico 1, Carico 2, ... Carico 6". Inserite dallo smartphone nuovi numeri a piacere facendo attenzione di indicare i decimali con la virgola (i valori numerici si inseriscono in basso a sinistra nel campo fx che appare dopo aver selezionato la cella da modificare).
+Se le cose sono andate a buon fine dovreste trovarvi all'interno di un foglio Sheet dove sono riportati semplicemente dei numeri di colore rosso sotto l'etichetta "Carico 1, Carico 2, ... Carico 5". Inserite dallo smartphone nuovi numeri a piacere facendo attenzione di indicare i decimali con la virgola (i valori numerici si inseriscono in basso a sinistra nel campo fx che appare dopo aver selezionato la cella da modificare).
 
 Aprite con Chrome questo [Link di TEST](https://www.albertodelcarlo.it/see/indextest1.html) e dovreste vedere i numeri che avete inserito. Potete cambiarli nuovamente da smartphone e premere il tasto refresh del Browser per l'aggiornamento, oppure attendere il refresh automatico ogni sei secondi.
 
